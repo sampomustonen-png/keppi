@@ -1,0 +1,16 @@
+{
+  "name": "kepista-kaikkeen",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Selaimessa pelattava vaihtopeli: kepistä vähän parempaan, kunnes omistat kaiken.",
+  "scripts": {
+    "build": "node tools/build.js",
+    "test": "node --test",
+    "sim": "node tools/sim/levels.js 300 1",
+    "sim:modes": "node tools/sim/modes.js 300",
+    "tune": "node tools/sim/tune.js 200 8",
+    "tune:pika": "node tools/sim/tune.js 200 8 --pika",
+    "serve": "cd dist && python3 -m http.server 8765"
+  },
+  "engines": { "node": ">=18" }
+}

@@ -1,0 +1,1073 @@
+# nimi|emoji|arvo €|tagit (pl = monikko, tuore = pilaantuu)|oma kuvaefekti
+# --- maasta löydetyt ---
+Oljenkorsi|🌾|0.03|luonto
+Keppi|🪵|0.05|luonto puu
+Vaahteranlehti|🍁|0.06|luonto
+Syksyn lehti|🍂|0.04|luonto
+Tuulen lehti|🍃|0.035|luonto
+Kivi|🪨|0.08|luonto
+Apila|☘️|0.07|luonto
+Taimi|🌱|0.3|luonto
+Kastanja|🌰|0.15|luonto ruoka
+Voikukka|🌼|0.2|luonto
+Sulka|🪶|0.12|luonto eläin
+Simpukka|🐚|0.3|luonto vesi
+Sieni|🍄|0.25|luonto ruoka taika tuore
+Kananmuna|🥚|0.35|ruoka maatila tuore
+Banaani|🍌|0.45|ruoka tuore
+Nappi|🔘|0.1|käsityö vaate
+Muurahainen|🐜|0.03|eläin luonto
+Etana|🐌|0.05|eläin luonto
+Lumihiutale|❄️|0.02|luonto vesi
+Vesipisara|💧|0.02|vesi luonto
+Luu|🦴|0.2|eläin
+Lierokaste|🪱|0.06|eläin luonto
+Kärpänen|🪰|0.02|eläin
+Hyttynen|🦟|0.015|eläin
+Torakka|🪳|0.02|eläin
+Maapähkinä|🥜|0.2|ruoka
+Porkkana|🥕|0.25|ruoka maatila tuore
+Peruna|🥔|0.2|ruoka maatila
+Valkosipuli|🧄|0.3|ruoka
+Sipuli|🧅|0.25|ruoka maatila
+Chili|🌶️|0.35|ruoka
+Kurkku|🥒|0.4|ruoka tuore
+Mustikka|🫐|0.3|ruoka luonto tuore
+Mansikka|🍓|0.35|ruoka tuore
+Paperilappu|📄|0.02|kirja
+Sanomalehti|📰|0.45|kirja
+Nasta|📌|0.05|kirja metalli
+Hakaneula|🧷|0.06|metalli käsityö
+Kuitti|🧾|0.03|kirja
+Hintalappu|🏷️|0.1|kirja
+Kuihtunut ruusu|🥀|0.15|luonto
+Lumiukko|⛄|0.1|luonto juhla tuore
+# --- pikkutavarat ---
+Paperiliitin|📎|0.6|kirja metalli
+Omena|🍎|0.7|ruoka tuore
+Vihreä omena|🍏|0.65|ruoka tuore
+Päärynä|🍐|0.7|ruoka tuore
+Appelsiini|🍊|0.6|ruoka tuore
+Sitruuna|🍋|0.5|ruoka tuore
+Persikka|🍑|0.9|ruoka tuore
+Kirsikka|🍒|0.55|ruoka tuore
+Kiivi|🥝|0.8|ruoka tuore
+Kookospähkinä|🥥|1.5|ruoka
+Avokado|🥑|1.2|ruoka tuore
+Tomaatti|🍅|0.5|ruoka tuore
+Munakoiso|🍆|0.9|ruoka tuore
+Maissintähkä|🌽|0.7|ruoka maatila
+Parsakaali|🥦|1.2|ruoka tuore
+Lehtisalaatti|🥬|1|ruoka tuore
+Mango|🥭|1.2|ruoka tuore
+Ananas|🍍|2.5|ruoka tuore
+Oliivi|🫒|1|ruoka
+Paprika|🫑|1|ruoka tuore
+Leipä|🍞|2|ruoka tuore
+Patonki|🥖|1.5|ruoka tuore
+Rinkeli|🥨|1.5|ruoka
+Vesirinkeli|🥯|1.8|ruoka tuore
+Rieska|🫓|2|ruoka tuore
+Pannukakku|🥞|2.5|ruoka herkku tuore
+Vohveli|🧇|2.8|ruoka herkku tuore
+Keksi|🍪|0.8|herkku
+Karkki|🍬|0.5|herkku
+Tikkari|🍭|0.9|herkku lelu
+Suklaapatukka|🍫|1.5|herkku
+Donitsi|🍩|1.8|herkku tuore
+Jäätelötötterö|🍦|2.5|herkku tuore
+Jäähile|🍧|2|herkku tuore
+Popcorn|🍿|2|herkku juhla
+Onnenkeksi|🥠|1|herkku taika
+Riisipallo|🍙|1.5|ruoka tuore
+Riisikulho|🍚|2|ruoka
+Riisikeksi|🍘|1|ruoka
+Kalakakku|🍥|2|ruoka vesi tuore
+Nakkisämpylä|🌭|2.5|ruoka tuore
+Ranskalaiset|🍟|2.2|ruoka tuore
+Säilyketölkki|🥫|2|ruoka
+Suolasirotin|🧂|1|ruoka koti
+Maitolasi|🥛|1|juoma tuore
+Mehutölkki|🧃|1|juoma
+Limsa|🥤|1.8|juoma
+Kynä|✏️|0.8|kirja
+Kuulakärkikynä|🖊️|1.2|kirja
+Väriliitu|🖍️|0.6|taide lelu
+Lusikka|🥄|1|koti metalli
+Syömäpuikot|🥢|0.8|koti puu pl
+Kolikko|🪙|1.2|metalli raha
+Pelikortti|🃏|1.3|lelu kirja
+Noppa|🎲|1|lelu
+Ilmapallo|🎈|1.5|lelu juhla
+Kirjekuori|✉️|1.8|kirja
+Kumiankka|🦆|2|lelu vesi
+Avain|🔑|2.5|metalli koti
+Paristo|🔋|2|tekniikka
+Hehkulamppu|💡|2.5|tekniikka koti
+Magneetti|🧲|1.5|metalli tiede
+Mutteri|🔩|0.5|metalli työkalu
+Hammasharja|🪥|2|koti
+Pesusieni|🧽|1.5|koti
+Vessapaperirulla|🧻|0.8|koti
+Laastari|🩹|0.5|koti
+Nimikyltti|📛|1|kirja
+Marmorikuula|🔵|0.5|lelu
+Viivain|📏|1|kirja
+Kolmioviivain|📐|1.2|kirja tiede
+Muistilehtiö|🗒️|2|kirja
+Vihko|📓|2.5|kirja
+Kansio|📁|1.5|kirja
+Kirjanmerkki|🔖|0.5|kirja
+Lankarulla|🧵|1|käsityö
+Ompeluneula|🪡|1|käsityö metalli
+Tiili|🧱|0.6|työkalu
+Rusetti|🎀|1.5|vaate juhla
+Konfettipallo|🎊|2|juhla
+Perhonen|🦋|2|eläin luonto
+Leppäkerttu|🐞|1|eläin luonto
+Sirkka|🦗|1.5|eläin luonto
+Hämähäkki|🕷️|2|eläin taika
+Auringonkukka|🌻|2|luonto
+Yrttinippu|🌿|2|luonto ruoka taika
+Neliapila|🍀|1.2|luonto taika harvinainen
+# --- arkiesineet ---
+Arpa|🎟️|3|kirja raha
+Kuppikakku|🧁|4|ruoka herkku juhla tuore
+Tennispallo|🎾|4.5|urheilu
+Saippua|🧼|4|koti
+Jojo|🪀|5.5|lelu
+Kynttilä|🕯️|6|koti taika
+Villasukat|🧦|7|vaate käsityö pl
+Kahvikuppi|☕|4|koti juoma
+Teekuppi|🍵|3|koti juoma
+Kuplatee|🧋|4.5|juoma herkku
+Lippalakki|🧢|9|vaate urheilu
+Kirja|📕|10|kirja
+Runokirja|📗|9|kirja taide
+Sanakirja|📘|16|kirja
+Keittokirja|📙|12|kirja ruoka
+Leija|🪁|12|lelu ulkoilu
+Pizza|🍕|13|ruoka tuore
+Taskulamppu|🔦|14|tekniikka ulkoilu
+Juusto|🧀|3.2|ruoka
+Sushi|🍣|4.5|ruoka vesi tuore
+Kuppijäätelö|🍨|3.5|herkku tuore
+Aterimet|🍴|4|koti metalli pl
+Sivellin|🖌️|3|taide
+Vanha avain|🗝️|8|metalli antiikki
+Konserttilippu|🎫|12|musiikki juhla
+Kalenteri|📅|3|kirja
+Muistikirja|📔|6|kirja
+T-paita|👕|10|vaate
+Kaulaliina|🧣|12|vaate käsityö
+Hanskat|🧤|10|vaate pl
+Lukko|🔒|4|metalli koti
+Sakset|✂️|3|työkalu koti pl
+Ketju|⛓️|6|metalli
+Hammasratas|⚙️|6|metalli tekniikka
+Ruuvimeisseli|🪛|12|työkalu
+Ämpäri|🪣|8|koti työkalu
+Hiirenloukku|🪤|4|koti
+Lankakerä|🧶|3|käsityö
+Koukku|🪝|3|metalli työkalu
+Munakello|⏲️|8|koti
+Lämpömittari|🌡️|10|tiede koti
+Koeputki|🧪|12|tiede
+Levyke|💾|5|tekniikka
+CD-levy|💿|8|musiikki tekniikka
+DVD-levy|📀|9|tekniikka
+Videokasetti|📼|6|tekniikka
+Jatkojohto|🔌|8|tekniikka koti
+Tulppaani|🌷|3|luonto
+Ruusu|🌹|5|luonto juhla
+Kirsikankukka|🌸|3|luonto
+Hibiskus|🌺|4|luonto
+Rosetti|🏵️|8|taide
+Bambunverso|🎋|5|luonto
+Tähtisädetikku|🎇|3|juhla
+Konfettitykki|🎉|3|juhla
+Onnenamuletti|🧿|10|taika koru
+Punainen kirjekuori|🧧|8|raha juhla
+Paperilyhty|🏮|12|koti juhla
+Hampurilainen|🍔|6|ruoka tuore
+Taco|🌮|4|ruoka tuore
+Burrito|🌯|5|ruoka tuore
+Tamale|🫔|4|ruoka tuore
+Falafel|🧆|5|ruoka tuore
+Pitaleipä|🥙|5|ruoka tuore
+Salaatti|🥗|7|ruoka tuore
+Keittopata|🍲|9|ruoka tuore
+Spagetti|🍝|8|ruoka tuore
+Nuudelikeitto|🍜|9|ruoka tuore
+Curry|🍛|9|ruoka tuore
+Eväsrasia|🍱|12|ruoka tuore
+Nyytti|🥟|6|ruoka tuore
+Kakkupala|🍰|5|herkku tuore
+Piirakka|🥧|12|ruoka herkku tuore
+Kanankoipi|🍗|4|ruoka tuore
+Lihaluu|🍖|8|ruoka tuore
+Pekoni|🥓|3|ruoka tuore
+Kuukakku|🥮|4|herkku juhla
+Dango|🍡|3|herkku
+Oden-varras|🍢|3|ruoka
+Vesimeloni|🍉|4|ruoka tuore
+Hunajameloni|🍈|3|ruoka tuore
+Hiiri|🐁|5|eläin
+Rotta|🐀|3|eläin
+Orava|🐿️|8|eläin luonto
+Tipu|🐤|5|eläin maatila
+Kuoriutuva poikanen|🐣|6|eläin maatila
+Sammakko|🐸|5|eläin vesi
+Katkarapu|🦐|8|ruoka vesi tuore
+Osteri|🦪|10|ruoka vesi tuore
+Kovakuoriainen|🪲|3|eläin luonto
+Frisbee|🥏|10|urheilu lelu
+Pesäpallo|⚾|10|urheilu
+Softballpallo|🥎|12|urheilu
+Pingismaila|🏓|14|urheilu
+# --- lelut ja työkalut ---
+Hunajapurkki|🍯|16|ruoka herkku
+Sateenvarjo|☂️|18|vaate ulkoilu
+Palapeli|🧩|20|lelu
+Kultakala|🐠|22|eläin vesi
+Nalle|🧸|25|lelu käsityö
+Vasara|🔨|28|työkalu metalli
+Jalkapallo|⚽|30|urheilu
+Taikasauva|🪄|32|taika lelu
+Kala|🐟|35|ruoka vesi tuore
+Herätyskello|⏰|38|koti tekniikka
+Onkivapa|🎣|40|vesi ulkoilu urheilu
+Kakku|🎂|45|ruoka herkku juhla tuore
+Kompassi|🧭|50|ulkoilu metalli
+Vaelluskengät|🥾|60|vaate ulkoilu pl
+Rumpu|🥁|70|musiikki
+Kirjapino|📚|25|kirja
+Täytekynä|🖋️|25|kirja
+Aarrekartta|🗺️|40|kirja ulkoilu
+Kirjakäärö|📜|35|kirja antiikki
+Silmälasit|👓|40|vaate pl
+Aurinkolasit|🕶️|25|vaate ulkoilu pl
+Suojalasit|🥽|16|urheilu työkalu pl
+Solmio|👔|30|vaate
+Farkut|👖|35|vaate pl
+Mekko|👗|40|vaate
+Bikinit|👙|25|vaate vesi pl
+Uimapuku|🩱|30|vaate vesi
+Shortsit|🩳|16|vaate pl
+Takki|🧥|60|vaate
+Silinteri|🎩|70|vaate juhla
+Olkihattu|👒|18|vaate ulkoilu
+Pelastuskypärä|⛑️|40|työkalu
+Kukkaro|👛|20|vaate raha
+Pikkulaukku|👝|30|vaate
+Reppu|🎒|40|vaate ulkoilu
+Korkokengät|👠|70|vaate pl
+Sandaalit|👡|25|vaate pl
+Saappaat|👢|60|vaate pl
+Balettitossut|🩰|30|vaate taide pl
+Huulipuna|💄|16|koru
+Näppäimistö|⌨️|40|tekniikka
+Tietokonehiiri|🖱️|20|tekniikka
+Lankapuhelin|☎️|60|tekniikka koti
+Puhelimen luuri|📞|16|tekniikka
+Hakulaite|📟|30|tekniikka
+Radio|📻|70|tekniikka musiikki
+Filmirulla|🎞️|25|taide
+Peliohjain|🕹️|45|lelu tekniikka
+Megafoni|📣|40|tekniikka
+Helmitaulu|🧮|25|tiede antiikki
+Petrimalja|🧫|17|tiede
+DNA-malli|🧬|60|tiede
+Kirves|🪓|35|työkalu puu
+Hakku|⛏️|30|työkalu metalli
+Hakku ja vasara|⚒️|45|työkalu metalli
+Työkalusarja|🛠️|60|työkalu metalli
+Jakoavain|🔧|25|työkalu metalli
+Saha|🪚|30|työkalu puu
+Ruuvipuristin|🗜️|40|työkalu metalli
+Tikkaat|🪜|75|työkalu koti pl
+Luuta|🧹|18|koti taika
+Pyykkikori|🧺|19|koti käsityö
+Tuoli|🪑|40|koti puu
+Peili|🪞|60|koti taika
+Kaktus|🌵|17|luonto
+Kukkakimppu|💐|25|luonto juhla
+Kuusi|🌲|50|luonto puu
+Lehtipuu|🌳|60|luonto puu
+Joulukuusi|🎄|40|juhla luonto
+Öljylamppu|🪔|20|koti antiikki
+Tiimalasi|⌛|22|koti antiikki
+Teekannu|🫖|18|koti
+Paistinpannu|🍳|18|koti työkalu
+Ostoskärry|🛒|50|koti metalli
+Pulkka|🛷|30|lelu ulkoilu
+Jääkiekkomaila|🏒|60|urheilu
+Keilapallo|🎳|60|urheilu
+Koripallo|🏀|30|urheilu
+Amerikkalainen jalkapallo|🏈|28|urheilu
+Rugbypallo|🏉|32|urheilu
+Lentopallo|🏐|25|urheilu
+Lacrosse-maila|🥍|70|urheilu
+Nyrkkeilyhanskat|🥊|50|urheilu pl
+Judopuku|🥋|60|urheilu vaate
+Mitali|🏅|50|urheilu
+Sulkapallomaila|🏸|20|urheilu
+Hamsteri|🐹|30|eläin
+Kani|🐇|40|eläin
+Siili|🦔|20|eläin luonto
+Lepakko|🦇|18|eläin taika
+Kukko|🐓|25|eläin maatila
+Kalkkuna|🦃|40|eläin maatila
+Pallokala|🐡|30|eläin vesi
+Taskurapu|🦀|20|ruoka vesi
+Hummeri|🦞|60|ruoka vesi tuore
+Lisko|🦎|25|eläin
+Skorpioni|🦂|40|eläin
+Haisunäätä|🦨|50|eläin
+Tuulikello|🎐|16|koti musiikki
+Piñata|🪅|20|lelu juhla
+Maatuskanukke|🪆|25|lelu käsityö
+Fondue|🫕|25|ruoka juhla
+Paella|🥘|16|ruoka tuore
+Pihvi|🥩|17|ruoka tuore
+Maalarin paletti|🎨|30|taide
+Nuottivihko|🎼|18|musiikki kirja
+# --- harrastukset ---
+Rullalauta|🛹|90|urheilu lelu
+Potkulauta|🛴|110|kulkuneuvo lelu
+Matkalaukku|🧳|130|ulkoilu vaate
+Teltta|⛺|150|ulkoilu
+Kissa|🐈|180|eläin
+Rannekello|⌚|220|koru tekniikka
+Kitara|🎸|250|musiikki
+Papukaija|🦜|280|eläin
+Kaukoputki|🔭|300|avaruus tiede
+Pelikonsoli|🎮|320|tekniikka lelu
+Viulu|🎻|350|musiikki taide
+Mikroskooppi|🔬|380|tiede tekniikka
+Koira|🐕|300|eläin
+Lenkkarit|👟|85|vaate urheilu pl
+Nahkakengät|👞|95|vaate pl
+Käsilaukku|👜|120|vaate koru
+Tulostin|🖨️|150|tekniikka
+Mikrofoni|🎤|120|musiikki
+Kuulokkeet|🎧|150|musiikki tekniikka pl
+Kaiutin|🔊|90|musiikki tekniikka
+Pikakamera|📸|120|tekniikka taide
+Työkalulaatikko|🧰|120|työkalu
+Djembe-rumpu|🪘|150|musiikki
+Jousi ja nuoli|🏹|120|urheilu ulkoilu
+Kilpikonna|🐢|85|eläin vesi
+Käärme|🐍|100|eläin taika
+Pöllö|🦉|120|eläin taika
+Mustekala|🐙|250|eläin vesi
+Kalmari|🦑|200|eläin vesi ruoka
+Vaaka|⚖️|90|metalli antiikki
+Ovi|🚪|150|koti puu
+Ikkuna|🪟|200|koti
+Vessanpönttö|🚽|120|koti
+Suihku|🚿|300|koti vesi
+Rullaluistimet|🛼|90|urheilu lelu pl
+Krikettimaila|🏏|85|urheilu
+Maalikehikko|🥅|150|urheilu
+Kimono|👘|200|vaate taide
+Pronssimitali|🥉|100|urheilu metalli
+Hopeamitali|🥈|200|urheilu metalli
+Kunniamerkki|🎖️|300|antiikki metalli
+Palmu|🌴|120|luonto
+Pesukarhu|🦝|380|eläin
+Mäyrä|🦡|300|eläin luonto
+Stetoskooppi|🩺|90|tiede
+Faksilaite|📠|85|tekniikka
+# --- isot hankinnat ---
+Lammas|🐑|420|eläin maatila
+Kännykkä|📱|480|tekniikka
+Banjo|🪕|550|musiikki
+Polkupyörä|🚲|650|kulkuneuvo urheilu
+Taulu|🖼️|750|taide
+Kamera|📷|850|tekniikka taide
+Televisio|📺|950|tekniikka koti
+Sohva|🛋️|1100|koti
+Läppäri|💻|1300|tekniikka
+Sormus|💍|1500|koru
+Sähköpiano|🎹|1700|musiikki tekniikka
+Lehmä|🐄|1900|eläin maatila
+Saksofoni|🎷|900|musiikki
+Trumpetti|🎺|600|musiikki metalli
+Haitari|🪗|800|musiikki
+Pöytäkone|🖥️|900|tekniikka
+Videokamera|📹|600|tekniikka
+Studiomikrofoni|🎙️|450|musiikki tekniikka
+Sänky|🛏️|450|koti
+Kylpyamme|🛁|600|koti vesi
+Kotka|🦅|900|eläin
+Riikinkukko|🦚|900|eläin
+Flamingo|🦩|600|eläin vesi
+Joutsen|🦢|420|eläin vesi
+Villakoira|🐩|600|eläin
+Pässi|🐏|500|eläin maatila
+Vuohi|🐐|440|eläin maatila
+Sika|🐖|410|eläin maatila
+Villisika|🐗|800|eläin luonto
+Sukset|🎿|450|urheilu ulkoilu pl
+Pokaali|🏆|1500|urheilu metalli
+Kultamitali|🥇|500|urheilu kulta
+Laskuvarjo|🪂|1500|urheilu ulkoilu
+Curling-kivi|🥌|420|urheilu
+Majava|🦫|1500|eläin vesi luonto
+Kettu|🦊|1200|eläin luonto taika
+# --- menopelit ja eläimet ---
+Kristallipallo|🔮|2300|taika
+Kanootti|🛶|2700|vesi kulkuneuvo ulkoilu
+Poro|🦌|3200|eläin
+Mopo|🛵|3800|kulkuneuvo
+Kirkonkello|🔔|4400|metalli musiikki
+Robotti|🤖|5200|tekniikka lelu
+Hevonen|🐎|6200|eläin urheilu
+Moottoripyörä|🏍️|7500|kulkuneuvo metalli
+Mehiläistarha|🐝|9000|eläin maatila herkku
+Timantti|💎|5000|koru harvinainen
+Rahasäkki|💰|5000|raha
+Krokotiili|🐊|3000|eläin vesi
+Hai|🦈|8000|eläin vesi
+Seepra|🦓|9000|eläin
+Härkä|🐂|2500|eläin maatila
+Vesipuhveli|🐃|3000|eläin maatila
+Kameli|🐪|4500|eläin
+Kaksikyttyräinen kameli|🐫|5000|eläin
+Laama|🦙|2100|eläin maatila
+Apina|🐒|3000|eläin
+Susi|🐺|5000|eläin luonto taika
+Laiskiainen|🦥|8000|eläin
+Saukko|🦦|6000|eläin vesi
+Poni|🐴|2500|eläin maatila
+Elokuvakamera|🎥|3000|tekniikka taide
+Satelliittiantenni|📡|2200|tekniikka avaruus
+Antiikkinen uurna|⚱️|3000|antiikki taide
+# --- autot ---
+Kotisauna|🧖|11000|koti
+Auto|🚗|18000|kulkuneuvo
+Taksi|🚕|25000|kulkuneuvo yritys
+Pakettiauto|🚐|23000|kulkuneuvo
+Avolava-auto|🛻|28000|kulkuneuvo maatila
+Traktori|🚜|34000|kulkuneuvo maatila
+Poliisiauto|🚓|40000|kulkuneuvo
+Maasturi|🚙|42000|kulkuneuvo ulkoilu
+Kilpa-auto|🏎️|52000|kulkuneuvo urheilu
+Hissi|🛗|20000|tekniikka kiinteistö
+Kirahvi|🦒|30000|eläin
+Gorilla|🦍|40000|eläin
+Oranki|🦧|35000|eläin
+Karhu|🐻|20000|eläin luonto
+Hylje|🦭|20000|eläin vesi
+Biisoni|🦬|15000|eläin maatila
+Kenguru|🦘|12000|eläin
+Koala|🐨|10500|eläin
+Leopardi|🐆|55000|eläin
+Virtahepo|🦛|50000|eläin vesi
+# --- veneet ja mökit ---
+Kuorma-auto|🚚|65000|kulkuneuvo yritys
+Moottorivene|🚤|80000|vesi kulkuneuvo
+Kesämökki|🛖|100000|kiinteistö luonto
+Purjevene|⛵|125000|vesi kulkuneuvo
+Leipomo|🥐|160000|yritys ruoka
+Linja-auto|🚌|200000|kulkuneuvo
+Paloauto|🚒|250000|kulkuneuvo metalli
+Ambulanssi|🚑|150000|kulkuneuvo
+Rekka|🚛|120000|kulkuneuvo yritys
+Norsu|🐘|80000|eläin
+Hylätty talo|🏚️|70000|kiinteistö kirottu
+Delfiini|🐬|60000|eläin vesi
+Sarvikuono|🦏|90000|eläin
+Kultaharkko|🧈|60000|kulta raha metalli
+Leijona|🦁|70000|eläin kuninkaallinen
+Tiikeri|🐅|90000|eläin
+Pandakarhu|🐼|150000|eläin harvinainen
+Junavaunu|🚃|280000|kulkuneuvo
+# --- talot ---
+Dinosauruksen luuranko|🦖|320000|tiede antiikki
+Pitkäkaulan fossiili|🦕|700000|tiede antiikki
+Omakotitalo|🏠|400000|kiinteistö koti
+Nukketeatteri|🎭|500000|taide yritys
+Kilpahevonen|🏇|650000|eläin urheilu
+Huvila|🏡|850000|kiinteistö koti
+Höyryveturi|🚂|1100000|kulkuneuvo metalli antiikki
+Helikopteri|🚁|1400000|kulkuneuvo tekniikka
+Viinitila|🍇|1800000|yritys maatila
+Valas|🐋|500000|eläin vesi
+Karuselli|🎠|400000|juhla yritys
+Raitiovaunu|🚋|800000|kulkuneuvo
+Mammutin luuranko|🦣|900000|tiede antiikki
+Lähikauppa|🏪|350000|yritys
+Johdinauto|🚎|320000|kulkuneuvo
+Ilotulitusnäytös|🎆|550000|juhla
+Pienlentokone|🛩️|450000|kulkuneuvo
+Suihkulähde|⛲|380000|kiinteistö taide vesi
+Vuoristohissi|🚠|1600000|kulkuneuvo ulkoilu
+Huoltoasema|⛽|900000|yritys kulkuneuvo
+# --- linnat ja kartanot ---
+Sirkus|🎪|2400000|yritys taide juhla
+Leirintäalue|🏕️|2600000|kiinteistö ulkoilu
+Postitalo|🏣|2900000|kiinteistö
+Kultakaivos|⛏️|4500000|yritys kulta metalli
+Huvijahti|🛥️|6000000|vesi kulkuneuvo
+Kerrostalo|🏢|8000000|kiinteistö
+Linna|🏰|11000000|kiinteistö kuninkaallinen antiikki
+Yksityiskone|✈️|15000000|kulkuneuvo
+Mestariteos|🖼️|19000000|taide antiikki
+Kivipatsas|🗿|4000000|antiikki taide
+Golfkenttä|⛳|5000000|urheilu kiinteistö
+Vuoristorata|🎢|8500000|juhla yritys
+Luotijuna|🚄|12000000|kulkuneuvo tekniikka
+Köysirata|🚡|2200000|kulkuneuvo ulkoilu
+Kiskobussi|🚝|3500000|kulkuneuvo
+Koulu|🏫|10000000|kiinteistö kirja
+Dodo|🦤|2500000|eläin harvinainen antiikki
+# --- yritykset ---
+Elokuvastudio|🎬|26000000|yritys taide
+Satelliitti|🛰️|35000000|avaruus tekniikka
+Tehdas|🏭|48000000|yritys metalli
+Huvipuisto|🎡|65000000|yritys juhla
+Raketti|🚀|90000000|avaruus tekniikka
+Valtamerilaiva|🚢|125000000|vesi kulkuneuvo
+Pilvenpiirtäjä|🏙️|170000000|kiinteistö
+Stadion|🏟️|230000000|urheilu kiinteistö
+Sairaala|🏥|30000000|kiinteistö tiede
+Hotelli|🏨|40000000|kiinteistö yritys
+Tavaratalo|🏬|60000000|yritys
+Museo|🏛️|50000000|kiinteistö antiikki taide
+Risteilyalus|🛳️|90000000|vesi kulkuneuvo juhla
+Rautatieasema|🚉|120000000|kulkuneuvo kiinteistö
+Lähetystorni|🗼|200000000|tekniikka kiinteistö
+Autolautta|⛴️|25000000|vesi kulkuneuvo
+Yksisarvinen|🦄|55000000|taika harvinainen eläin
+Rakennustyömaa|🏗️|28000000|yritys työkalu
+Oma pilvi|☁️|150000000|luonto taika
+# --- saaret ja vuoret ---
+Jäävuori|🧊|320000000|luonto vesi
+Pelistudio|👾|450000000|yritys tekniikka lelu
+Saari|🏝️|650000000|luonto vesi kiinteistö
+Tulivuori|🌋|950000000|luonto
+Lumihuippuinen vuori|🏔️|1400000000|luonto ulkoilu
+Lentoyhtiö|🛫|2000000000|yritys kulkuneuvo
+Linnoitus|🏯|3000000000|kiinteistö antiikki kuninkaallinen
+Aavikko|🏜️|4500000000|luonto
+Tunturi|⛰️|600000000|luonto ulkoilu
+Jättipatsas|🗽|900000000|taide kiinteistö
+Kylä|🏘️|1200000000|kiinteistö
+Riippusilta|🌉|2500000000|kiinteistö kulkuneuvo
+Lohikäärme|🐉|3500000000|taika eläin harvinainen
+Lentokenttä|🛬|4000000000|kulkuneuvo kiinteistö
+# --- kaupungit ---
+Satama|⚓|7000000000|vesi yritys
+Järviseutu|🏞️|11000000000|luonto vesi
+Kaupunki|🌆|17000000000|kiinteistö valta
+Rautatieverkko|🛤️|27000000000|kulkuneuvo yritys
+Sademetsä|🌳|42000000000|luonto eläin
+Lentävä lautanen|🛸|65000000000|avaruus tekniikka
+Pankki|🏦|100000000000|yritys raha
+Metropoli|🌃|160000000000|kiinteistö valta
+Moottoritie|🛣️|9000000000|kulkuneuvo
+Tornado|🌪️|20000000000|luonto
+Sumukaupunki|🌁|30000000000|kiinteistö
+Rannikkokaupunki|🌇|60000000000|kiinteistö vesi
+Hurrikaani|🌀|130000000000|luonto vesi
+# --- valtiot ---
+Sääkone|⛈️|250000000000|tekniikka tiede taika
+Tasavalta|🗳️|400000000000|valta
+Saarivaltio|🏖️|650000000000|valta vesi
+Tekoäly|🧠|1000000000000|tekniikka tiede
+Kuningaskunta|👑|1600000000000|valta kuninkaallinen
+Etelämanner|🌨️|2500000000000|luonto vesi
+Manner|🌎|4000000000000|luonto valta
+Valtameri|🌊|7000000000000|vesi luonto
+Maailmanpörssi|💹|12000000000000|yritys raha
+Salama|⚡|500000000000|luonto taika
+Internet|🌐|3000000000000|tekniikka
+# --- taivaankappaleet ---
+Tähdenlento|🌠|20000000000000|avaruus taika
+Kuunsirppi|🌙|35000000000000|avaruus
+Täysikuu|🌕|50000000000000|avaruus taika
+Komeetta|☄️|60000000000000|avaruus
+Punainen planeetta|🔴|100000000000000|avaruus
+Maapallo|🌍|170000000000000|avaruus luonto valta
+Saturnus|🪐|300000000000000|avaruus
+Tähtisumu|✨|500000000000000|avaruus taika
+Sateenkaari|🌈|400000000000000|luonto taika
+Auringonnousu|🌅|650000000000000|luonto taika
+# --- tähdet ---
+Aurinko|☀️|850000000000000|avaruus
+Tähti|⭐|1100000000000000|avaruus
+Musta aukko|🕳️|1400000000000000|avaruus tiede
+Unelma|💭|1800000000000000|taika
+Rinnakkaismaailma|🌏|2200000000000000|avaruus taika
+Supernova|💥|2800000000000000|avaruus
+Aurinkokunta|🌞|4000000000000000|avaruus
+Rakkaus|❤️|5500000000000000|taika
+# --- galaksit ---
+Tähtijoukko|🌟|7000000000000000|avaruus
+Linnunrata|🌌|12000000000000000|avaruus
+Kosminen verkko|🕸️|20000000000000000|avaruus tiede
+Aika|🕰️|28000000000000000|taika tiede
+Ajan alku|💫|35000000000000000|avaruus taika
+# --- kaikki ---
+Kaikki|♾️|100000000000000000|kaikki
+# --- lisää ---
+Toukka|🐛|0.1|eläin luonto
+Bakteeri|🦠|0.01|tiede
+Karttaneula|📍|0.2|kirja
+Pahvilaatikko|📦|1|koti
+Klemmariketju|🖇️|0.8|kirja metalli
+Ketjulenkki|🔗|1|metalli
+Muistiinpanot|📝|1|kirja
+Iltapäivälehti|🗞️|2|kirja
+Puurokulho|🥣|2|ruoka
+Bataatti|🍠|0.8|ruoka maatila
+Paperikukka|💮|2|taide käsityö
+Rakkauskirje|💌|3|kirja juhla
+Mahjong-laatta|🀄|3|lelu
+Shakkinappula|♟️|5|lelu puu
+Kukkapelikortit|🎴|6|lelu kirja
+Voileipä|🥪|3|ruoka tuore
+Tempura|🍤|4|ruoka vesi tuore
+Noutoruokarasia|🥡|6|ruoka tuore
+Vanukas|🍮|3|herkku tuore
+Tuttipullo|🍼|5|koti
+Voidepullo|🧴|6|koti
+Roskakori|🗑️|10|koti metalli
+Korttiarkisto|📇|12|kirja
+Minidisc|💽|12|musiikki tekniikka
+Suurennuslasi|🔍|12|tiede
+Köysi|🪢|8|ulkoilu työkalu
+Pusero|👚|12|vaate
+Uimahousut|🩲|10|vaate vesi pl
+Varvassandaalit|🩴|8|vaate vesi pl
+Kurpitsalyhty|🎃|6|juhla ruoka tuore
+Varpunen|🐦|3|eläin luonto
+Imukuppi|🪠|6|koti työkalu
+Kyltti|🪧|10|kirja puu
+Kirjanpitokirja|📒|8|kirja raha
+Välilehtikansio|🗂️|6|kirja
+Seinäkalenteri|🗓️|5|kirja koti
+Leikepöytä|📋|4|kirja
+Ruukkukasvi|🪴|14|luonto koti
+Partaveitsi|🪒|16|koti metalli
+Sammutin|🧯|60|koti työkalu
+Tikkataulu|🎯|40|urheilu lelu
+Biljardipallo|🎱|16|urheilu lelu
+Bumerangi|🪃|25|urheilu lelu puu
+Sekuntikello|⏱️|30|urheilu tekniikka
+Korttikotelo|🗃️|20|kirja
+Postilaatikko|📮|40|koti metalli
+Turvalukko|🔐|16|metalli koti
+Euroseteli|💶|20|raha
+Ohjauspallo|🖲️|30|tekniikka
+Pöytäkello|🛎️|25|metalli yritys
+Laboratoriotakki|🥼|40|tiede vaate
+Huomioliivi|🦺|16|vaate työkalu
+Ylioppilaslakki|🎓|60|vaate juhla kirja
+Ballerinat|🥿|40|vaate pl
+Rantavarjo|⛱️|40|ulkoilu vesi
+Tietyöeste|🚧|50|työkalu
+Karppiviiri|🎏|16|juhla
+Maahockeymaila|🏑|40|urheilu
+Luistimet|⛸️|70|urheilu pl
+Snorklausmaski|🤿|35|vesi urheilu
+Juoksupaita|🎽|20|vaate urheilu
+Mate-kalebassi|🧉|25|juoma
+Kattaus|🍽️|40|koti
+Kyyhky|🕊️|16|eläin
+Postitorvi|📯|300|musiikki antiikki
+Arkistokaappi|🗄️|150|koti metalli
+Setelinippu|💵|120|raha
+Sari|🥻|90|vaate taide
+Teräskypärä|🪖|85|antiikki metalli
+Salkku|💼|150|yritys
+Hälytysvalo|🚨|120|tekniikka
+Ikkunapaikka|💺|300|kulkuneuvo
+Pingviini|🐧|600|eläin vesi
+Mikseripöytä|🎛️|1200|musiikki tekniikka
+Elokuvaprojektori|📽️|1500|tekniikka taide
+Tislauslaite|⚗️|450|tiede antiikki
+Kilpi|🛡️|800|metalli antiikki
+Bussipysäkki|🚏|1500|kulkuneuvo
+Amfora|🏺|2500|antiikki taide
+Riksa|🛺|4000|kulkuneuvo
+Liikennevalot|🚦|4000|kulkuneuvo tekniikka pl
+Avoauto|🚘|45000|kulkuneuvo
+Riippurata|🚟|5000000|kulkuneuvo
+Tuli|🔥|5000000000000|luonto taika
+# --- lisäys v4: korkeat portaat ---
+Lähijuna|🚆|2200000|kulkuneuvo
+Vuoristojuna|🚞|3000000|kulkuneuvo ulkoilu
+Pääpostitalo|🏤|6500000|kiinteistö
+Keiju|🧚|7000000|taika harvinainen
+Peikko|🧌|9000000|taika luonto
+Kolmikärki|🔱|22000000|antiikki valta taika
+Kevytraide|🚈|26000000|kulkuneuvo
+Sinivalas|🐳|32000000|eläin vesi
+Suurnopeusjuna|🚅|45000000|kulkuneuvo tekniikka
+Liljavaakuna|⚜️|70000000|kuninkaallinen antiikki
+Metroverkko|🚇|180000000|kulkuneuvo kiinteistö
+Koralliriutta|🪸|260000000|luonto vesi eläin
+Sade|☔|550000000|luonto vesi
+Kesä|🌤️|800000000|luonto taika
+Talvi|☃️|1100000000|luonto taika
+Kartiovuori|🗻|1800000000|luonto ulkoilu
+Lampun henki|🧞|2200000000|taika harvinainen
+Ydinvoimala|☢️|3800000000|tekniikka yritys
+Hiukkaskiihdytin|⚛️|4600000000|tiede tekniikka
+Sumu|🌫️|5500000000|luonto
+Tuuli|🌬️|8000000000|luonto
+Ukkosmyrsky|🌩️|14000000000|luonto taika
+Ystävyys|🤝|45000000000|taika
+Kultainen kaupunki|🌆|120000000000|kiinteistö kulta valta
+Ilo|😄|300000000000|taika
+Kaikki maailman kirjat|📖|600000000000|kirja tiede
+Kaikki maailman laulut|🎶|900000000000|musiikki taide
+Kuunpimennys|🌑|16000000000000|avaruus taika
+Puolikuu|🌓|30000000000000|avaruus
+Jääplaneetta|🪐|75000000000000|avaruus vesi
+Laavaplaneetta|🌕|90000000000000|avaruus luonto
+Avaruusolio|👽|120000000000000|avaruus taika
+Aamunkoitto|🌄|280000000000000|luonto taika
+Oinaan tähdistö|♈|1000000000000000|avaruus taika
+Valkoinen kääpiö|⚪|1200000000000000|avaruus
+Leijonan tähdistö|♌|1600000000000000|avaruus taika
+Skorpionin tähdistö|♏|2400000000000000|avaruus taika
+Kalojen tähdistö|♓|3300000000000000|avaruus taika
+Punainen jättiläinen|🟠|3600000000000000|avaruus
+Neutronitähti|🟣|5000000000000000|avaruus tiede
+Pulsari|🔅|9000000000000000|avaruus tiede
+Kvasaari|🔆|16000000000000000|avaruus
+Pimeä aine|⚫|25000000000000000|avaruus tiede
+Kaikkeuden sävel|🎵|45000000000000000|musiikki taika
+Ikuisuus|⏳|60000000000000000|taika
+Multiversumi|🫧|75000000000000000|avaruus taika
+# --- lisäys v4: uusia kuvia muille portaille ---
+Hernepalko|🫛|0.2|ruoka maatila tuore
+Pavut|🫘|0.3|ruoka pl
+Linnunpesä|🪺|1.5|luonto eläin
+Inkivääri|🫚|1.2|ruoka
+Lasipurkki|🫙|2|koti
+Kampa|🪮|2.5|koti
+Hyasintti|🪻|4|luonto
+Meduusa|🪼|22|eläin vesi
+Viuhka|🪭|20|vaate taide
+Marakassit|🪇|25|musiikki pl
+Pelastusrengas|🛟|45|vesi työkalu
+Diskopallo|🪩|60|juhla
+Hanhi|🪿|90|eläin maatila
+Huilu|🪈|220|musiikki
+Auton rengas|🛞|160|kulkuneuvo
+Liukumäki|🛝|3500|lelu ulkoilu
+Hirvi|🫎|7000|eläin luonto
+# --- v5: muunnelmaperheet ---
+Männynkäpy|🌲|0.08|luonto puu
+Kuusenkäpy|🌲|0.1|luonto puu
+Tammenterho|🌰|0.12|luonto puu
+Koivunlehti|🍃|0.05|luonto
+Litteä kivi|🪨|0.15|luonto vesi
+Piikivi|🪨|0.4|luonto
+Kärpässieni|🍄|0.2|luonto
+Kantarelli|🍄|0.45|luonto ruoka
+Puolukka|🫐|0.08|ruoka luonto tuore
+Vadelma|🍓|0.15|ruoka luonto tuore
+Lakka|🍊|0.4|ruoka luonto tuore
+Retiisi|🥕|0.2|ruoka tuore
+Punasipuli|🧅|0.25|ruoka
+Postimerkki|✉️|0.4|kirja
+Kuminauha|➰|0.03|koti
+Pullonkorkki|🍾|0.02|koti metalli
+Tulitikku|🔥|0.02|koti
+Hammastikku|🥢|0.01|koti puu
+Muovikassi|🛍️|0.1|koti
+Paperikassi|🛍️|0.3|koti kirja
+Mandariini|🍊|0.6|ruoka tuore
+Greippi|🍊|1.2|ruoka tuore
+Lime|🍋|0.7|ruoka tuore
+Viinirypäleterttu|🍇|2.5|ruoka tuore
+Luumu|🍑|0.6|ruoka tuore
+Aprikoosi|🍑|0.8|ruoka tuore
+Raparperi|🥬|1.5|ruoka tuore
+Granaattiomena|🍎|2.2|ruoka tuore
+Ruisleipä|🍞|2.2|ruoka
+Sämpylä|🍞|0.8|ruoka
+Korvapuusti|🥐|1.8|ruoka herkku
+Karjalanpiirakka|🥟|1.2|ruoka
+Croissant|🥐|1.5|ruoka herkku
+Lakritsi|🍬|1|herkku
+Salmiakki|🍬|1.2|herkku
+Hattara|🍭|2.5|herkku juhla
+Purkka|🍬|0.6|herkku
+Huopakynä|🖊️|1.5|kirja taide
+Korostuskynä|🖍️|1.8|kirja
+Värikynä|✏️|0.7|kirja taide
+Pyyhekumi|🧽|0.6|kirja
+Teroitin|✏️|0.9|kirja
+Kaksikymmentahkoinen noppa|🎲|2.5|lelu
+Pelinappula|♟️|0.8|lelu
+Sydänilmapallo|🎈|2.2|juhla lelu
+Nappiparisto|🔋|1.2|tekniikka
+Led-lamppu|💡|2.8|tekniikka koti
+Avaimenperä|🔑|2|koti
+Lasihelmi|🔮|1|koru
+Sukat|🧦|2.5|vaate pl
+Kesäkurpitsa|🥒|1|ruoka tuore
+Kukkakaali|🥦|1.8|ruoka tuore
+Punajuuri|🥕|0.6|ruoka
+Pulla|🥐|1.2|ruoka herkku
+Paperilennokki|✈️|0.6|lelu kirja
+Muki|☕|6|koti juoma
+Espressokuppi|☕|5|koti juoma
+Tuikku|🕯️|3|koti juhla
+Sarjakuvalehti|📰|5|kirja taide
+Pokkari|📕|6|kirja
+Satukirja|📗|9|kirja
+Pipo|🧢|12|vaate
+Lapaset|🧤|10|vaate pl käsityö
+C-kasetti|📼|4|tekniikka musiikki
+Vinyylisingle|💿|8|musiikki
+Muistitikku|💾|10|tekniikka
+Muistikortti|💾|12|tekniikka
+Blu-ray-levy|📀|14|tekniikka
+Otsalamppu|🔦|13|tekniikka ulkoilu
+Kebab|🥙|9|ruoka
+Hernekeitto|🍲|6|ruoka
+Lohikeitto|🍲|12|ruoka
+Lihapullat|🍝|8|ruoka pl
+Kalapuikot|🐟|5|ruoka pl
+Kääretorttu|🍰|9|herkku
+Mustikkapiirakka|🥧|12|herkku
+Jäätelöpuikko|🍦|3.5|herkku
+Pirtelö|🥤|6|herkku juoma
+Smoothie|🥤|7|juoma
+Kaakao|☕|4|juoma
+Lihapiirakka|🥟|4|ruoka
+Golfpallo|⛳|4|urheilu
+Sulkapallo|🏸|3|urheilu
+Mittanauha|📏|8|työkalu
+Vesivaaka|📏|14|työkalu
+Pihdit|🔧|10|työkalu metalli pl
+Nitoja|📎|7|kirja metalli
+Rei'itin|📎|9|kirja metalli
+Teippirulla|📦|3|koti
+Mehiläinen|🐝|3|eläin luonto
+Kimalainen|🐝|3.5|eläin luonto
+Sudenkorento|🦋|4|eläin luonto
+Tulikärpänen|🪲|5|eläin luonto
+Narsissi|🌼|4|luonto
+Orvokki|🌸|3.5|luonto
+Kielo|🌷|5|luonto
+Pioni|🌺|8|luonto
+Jakkara|🪑|12|koti puu
+Ahven|🐟|6|eläin vesi tuore
+Hyppynaru|➰|8|urheilu lelu
+Kangaskassi|🛍️|4|vaate käsityö
+Näppäinpuhelin|☎️|45|tekniikka koti
+Langaton puhelin|📞|35|tekniikka koti
+Kertakäyttökamera|📷|18|tekniikka taide
+Kolmipyörä|🚲|70|lelu kulkuneuvo
+Potkupyörä|🚲|55|lelu kulkuneuvo
+Ukulele|🎸|60|musiikki
+Rahi|🪑|45|koti
+Undulaatti|🦜|40|eläin
+Kanarialintu|🐤|50|eläin
+Marsu|🐹|30|eläin
+Hauki|🐟|25|eläin vesi tuore
+Lohi|🐟|35|eläin vesi tuore
+Olkalaukku|👜|45|vaate
+Vyölaukku|👝|25|vaate
+Tohvelit|🥿|20|vaate koti pl
+Kumisaappaat|👢|35|vaate ulkoilu pl
+Pyöräilykypärä|⛑️|50|urheilu
+Cowboy-hattu|🤠|45|vaate
+Baskeri|👒|20|vaate taide
+Kasettisoitin|📻|40|tekniikka musiikki
+CD-soitin|💿|60|tekniikka musiikki
+Mp3-soitin|🎧|50|tekniikka musiikki
+Lyhty|🏮|30|ulkoilu koti
+Pöytälamppu|💡|35|koti tekniikka
+Laavalamppu|💡|45|koti
+Kattila|🍲|30|koti metalli
+Vohvelirauta|🧇|50|koti
+Leivänpaahdin|🍞|40|koti tekniikka
+Käsipainot|🏋️|40|urheilu metalli pl
+Kahvakuula|🏋️|35|urheilu metalli
+Joogamatto|🧘|25|urheilu
+Lapio|⛏️|25|työkalu ulkoilu
+Lumilapio|⛏️|25|työkalu ulkoilu
+Harava|🧹|18|työkalu ulkoilu
+Koivu|🌳|40|luonto puu
+Mänty|🌲|45|luonto puu
+Kiikarit|🔭|60|ulkoilu tekniikka pl
+Lelurobotti|🤖|30|lelu tekniikka
+Pienoisraketti|🚀|50|lelu tiede
+Villapaita|🧶|35|vaate käsityö
+Kauluspaita|👔|30|vaate
+Huppari|🧥|40|vaate
+Orkidea|🌸|25|luonto koti
+Käsipallo|🤾|20|urheilu
+Tietosanakirja|📚|50|kirja tiede
+Termospullo|🧴|25|ulkoilu juoma
+Mokkapannu|☕|25|koti juoma
+Sähköhammasharja|🪥|40|koti tekniikka
+Filmikamera|📷|180|tekniikka taide
+Digikamera|📷|300|tekniikka taide
+Simpukkapuhelin|📱|150|tekniikka
+BMX-pyörä|🚲|350|kulkuneuvo urheilu
+Älykello|⌚|350|tekniikka urheilu
+Käkikello|🕰️|250|koti antiikki puu
+Kantele|🪕|300|musiikki puu
+Keinutuoli|🪑|200|koti puu
+Toimistotuoli|🪑|250|koti
+Kehto|🛏️|300|koti puu
+Mäyräkoira|🐕|350|eläin
+Kissanpentu|🐈|120|eläin
+Koiranpentu|🐕|200|eläin
+Karitsa|🐑|250|eläin maatila
+Porsas|🐖|150|eläin maatila
+Levysoitin|💿|250|musiikki tekniikka
+Potkukelkka|🛷|150|ulkoilu kulkuneuvo
+Tennismaila|🎾|120|urheilu
+Golfmaila|🏌️|200|urheilu metalli
+Rinkka|🎒|150|ulkoilu
+Bonsai|🌳|300|luonto taide
+Kuvaputkitelevisio|📺|90|tekniikka
+Älypuhelin|📱|1100|tekniikka
+Järjestelmäkamera|📷|1200|tekniikka taide
+Maastopyörä|🚵|1500|kulkuneuvo urheilu
+Sähkökitara|🎸|900|musiikki tekniikka
+Rumpusetti|🥁|1500|musiikki
+Taskukello|⏱️|600|koru antiikki
+Nojatuoli|🛋️|600|koti
+Kultainennoutaja|🦮|900|eläin
+Husky|🐺|1000|eläin
+Persialainen kissa|🐈|900|eläin
+Kakadu|🦜|1500|eläin
+Aasi|🫏|1500|eläin maatila
+Kajakki|🛶|1200|vesi kulkuneuvo urheilu
+Lumilauta|🏂|500|urheilu
+Gramofoni|📯|800|musiikki antiikki
+Tabletti|📱|600|tekniikka
+Tandempyörä|🚲|2600|kulkuneuvo urheilu
+Sähköpyörä|🚲|3200|kulkuneuvo tekniikka
+Kilpapyörä|🚴|4500|kulkuneuvo urheilu
+Taittuva älypuhelin|📱|2200|tekniikka
+Kaappikello|🕰️|4000|koti antiikki puu
+Piano|🎹|6000|musiikki puu
+Sello|🎻|5000|musiikki puu
+Soutuvene|🚣|2500|vesi kulkuneuvo
+Jukeboksi|📻|4500|musiikki antiikki
+Kattokruunu|💡|4000|koti koru
+Varsa|🐎|2500|eläin maatila
+Pelitietokone|🖥️|3000|tekniikka
+Pikkuauto|🚗|11000|kulkuneuvo
+Farmariauto|🚙|24000|kulkuneuvo
+Sähköauto|🚗|45000|kulkuneuvo tekniikka
+Vesiskootteri|🚤|15000|vesi kulkuneuvo
+Moottorikelkka|🛷|15000|kulkuneuvo ulkoilu
+Ilves|🐆|15000|eläin luonto
+Flyygeli|🎹|30000|musiikki
+Liitokone|🛩️|40000|kulkuneuvo
+Matkailuauto|🚐|80000|kulkuneuvo ulkoilu
+Limusiini|🚘|150000|kulkuneuvo
+Urheiluauto|🏎️|120000|kulkuneuvo
+Kuumailmapallo|🎈|90000|kulkuneuvo ulkoilu
+Hirsimökki|🛖|150000|kiinteistö puu
+Jääkarhu|🐻‍❄️|100000|eläin
+Koulubussi|🚌|120000|kulkuneuvo
+Höyrylaiva|🚢|800000|vesi kulkuneuvo antiikki
+Vesitaso|🛩️|900000|kulkuneuvo vesi
+Kirkkourut|🎹|600000|musiikki antiikki
+Tuulimylly|🌬️|500000|kiinteistö maatila
+Kerrostaloasunto|🏢|350000|kiinteistö
+Mammuttipetäjä|🌲|400000|luonto puu harvinainen
+Kaksikerrosbussi|🚌|400000|kulkuneuvo
+Purjelaiva|⛵|5000000|vesi kulkuneuvo antiikki
+Majakka|🗼|3000000|kiinteistö vesi
+Kartano|🏡|4000000|kiinteistö antiikki
+Supertietokone|🖥️|10000000|tekniikka tiede
+Valtaistuin|🪑|3000000|kuninkaallinen valta antiikki
+Kuninkaallinen kruunu|👑|8000000|kuninkaallinen koru kulta
+Kirkko|⛪|6000000|kiinteistö antiikki
+Tuulivoimala|🌬️|2500000|tekniikka kiinteistö
+Sukellusvene|🚢|80000000|vesi kulkuneuvo tekniikka
+Jäänmurtaja|🚢|60000000|vesi kulkuneuvo
+Matkustajakone|✈️|100000000|kulkuneuvo
+Rahtikone|✈️|150000000|kulkuneuvo yritys
+Palatsi|🏰|200000000|kiinteistö kuninkaallinen
+Observatorio|🔭|50000000|tiede avaruus kiinteistö
+Konserttitalo|🎼|90000000|musiikki kiinteistö
+Kirjasto|📚|30000000|kirja kiinteistö
+Ostoskeskus|🏬|120000000|kiinteistö yritys
+Lentotukialus|🚢|4000000000|vesi kulkuneuvo valta
+Avaruussukkula|🚀|2000000000|avaruus kulkuneuvo
+Palvelinkeskus|🖥️|2000000000|tekniikka yritys
+Tuulipuisto|🌬️|1500000000|tekniikka yritys
+Aurinkovoimala|☀️|1000000000|tekniikka yritys
+Kuumönkijä|🚙|1000000000|avaruus tekniikka
+Vesiputous|🏞️|800000000|luonto vesi
+Kanjoni|🏜️|3000000000|luonto
+Saaristo|🏝️|10000000000|luonto vesi
+Vuoristo|🏔️|20000000000|luonto
+Pato|🌊|6000000000|tekniikka vesi
+Kanava|🛳️|30000000000|vesi valta
+Avaruusasema|🛰️|150000000000|avaruus tekniikka
+Marsmönkijä|🚙|8000000000|avaruus tekniikka
+Revontulet|🌌|800000000000|luonto taika pl
+Kuutukikohta|🌕|300000000000|avaruus tekniikka
+Avaruushissi|🛗|500000000000|avaruus tekniikka
+Mars-siirtokunta|🔴|2000000000000|avaruus valta
+Supermanner|🌍|10000000000000|luonto valta
+Kaasujättiläinen|🪐|100000000000000|avaruus
+Asteroidivyöhyke|☄️|50000000000000|avaruus
+Kääpiöplaneetta|🌑|30000000000000|avaruus
+Eksoplaneetta|🌍|400000000000000|avaruus harvinainen
+Jääjättiläinen|🪐|200000000000000|avaruus
+Punainen kääpiö|🔴|1000000000000000|avaruus
+Kaksoistähti|✨|3000000000000000|avaruus
+Sininen jättiläinen|🔵|4000000000000000|avaruus
+Planetaarinen sumu|🌀|2000000000000000|avaruus
+Dysonin pallo|🌞|6000000000000000|avaruus tekniikka
+Spiraaligalaksi|🌌|15000000000000000|avaruus
+Galaksijoukko|🌌|30000000000000000|avaruus
+Madonreikä|🌀|50000000000000000|avaruus taika
+Aikakone|⏳|80000000000000000|tekniikka taika harvinainen
+# --- v6: lisää esineitä portaille 14–16 ---
+Hiihtokeskus|⛷️|6000000000|urheilu yritys ulkoilu
+Öljynporauslautta|🛢️|9000000000|yritys vesi tekniikka
+Merikaapeli|🔌|7000000000|tekniikka vesi
+Avaruusteleskooppi|🔭|12000000000|avaruus tiede tekniikka
+Jalkapalloseura|⚽|15000000000|urheilu yritys
+Formulatalli|🏎️|20000000000|urheilu yritys kulkuneuvo
+Kaivosyhtiö|⛏️|25000000000|yritys metalli
+Jäätikkö|🏔️|30000000000|luonto vesi
+Autotehdas|🏭|40000000000|yritys kulkuneuvo tekniikka
+Laivavarustamo|🚢|60000000000|yritys vesi kulkuneuvo
+Rautatieyhtiö|🚆|80000000000|yritys kulkuneuvo
+Satelliittiparvi|🛰️|150000000000|avaruus tekniikka
+Aurinkopurje|⛵|250000000000|avaruus tekniikka
+Avaruusristeilijä|🚀|300000000000|avaruus kulkuneuvo
+Mannerrautatie|🚄|400000000000|kulkuneuvo valta
+Jäämanner|🧊|600000000000|luonto vesi
+Keskuspankki|🏦|1000000000000|raha valta yritys
+Avaruussatama|🛸|2000000000000|avaruus kiinteistö
+Asteroidikaivos|⛏️|4000000000000|avaruus yritys metalli
+Merivirta|🌊|5000000000000|luonto vesi
+Kuukaupunki|🌕|7000000000000|avaruus kiinteistö
+Valtamerikaupunki|🏙️|9000000000000|kiinteistö vesi
+Terraformauskone|🌍|12000000000000|avaruus tekniikka tiede
+Ilmakehä|☁️|15000000000000|luonto
+Kuukunta|🌙|25000000000000|avaruus
+Planeetan rengas|🪐|30000000000000|avaruus
+Kaksoisplaneetta|🌍|50000000000000|avaruus
+Kaasukaivos|🪐|60000000000000|avaruus yritys
+Vesiplaneetta|🌊|80000000000000|avaruus vesi
+Avaruuskaupunki|🛰️|120000000000000|avaruus kiinteistö
+Sukupolvialus|🚀|160000000000000|avaruus kulkuneuvo
+Timanttiplaneetta|💎|220000000000000|avaruus koru harvinainen
+Pölykiekko|💫|300000000000000|avaruus
+Komeettapilvi|☄️|400000000000000|avaruus
+Tähtilaiva|🚀|600000000000000|avaruus kulkuneuvo
+Orbitaalirengas|💍|700000000000000|avaruus tekniikka

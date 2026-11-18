@@ -1,0 +1,31 @@
+# Muuntimien piirretyt yksityiskohdat: ~<ulkoasu>< piirretään esineen taakse, ~<ulkoasu>> eteen. Sama 64-ruudukko kuin esineillä.
+~worn>|!s dk/60 1.4 M12 20 l6 4 l-2 4 l5 3; s dk/60 1.2 M48 38 l-5 3 l3 3; r 42 12 9 7 sn/90 1.5; s lb 0.8 M43 13 l7 5 M43 18 l7 -5
+~fresh>|!@spark(gd,51,11,5); @spark(yl,11,19,3.5); @spark(gd,54,46,3)
+~rust>|!c 17 41 3.5 #b5603a/85; c 21 45 2 #8a4a2a/80; c 45 21 3 #b5603a/85; c 48 25 1.8 #8a4a2a/80; c 41 47 2.5 #c96f4a/80; c 24 16 1.6 #b5603a/70
+~shiny>|!s wh/90 3 M22 32 l8 -8; s wh/75 2 M28 36 l10 -10; @spark(gd,51,12,4.5); @spark(yl,13,46,2.5)
+~gold<|!c 32 32 29 #f6c945/28
+~gold>|!@spark(#fff3c4,51,11,4.5); @spark(#ffe27a,11,47,3.2); @spark(#fff3c4,54,49,2.5)
+~silver>|!@spark(wh,51,11,4.2); @spark(#e6edf3,12,45,3); @spark(wh,55,48,2)
+~antique>|!s br 1 M45 5 L50 15; r 45 14 14 10 sn 2; s br 1 M45 14 h14 v10 h-14z; s br 1.2 M48 18 h8 M48 21 h5
+~signed>|!s nv 2.4 M28 53 c4 -7 6 -7 6 -1 c0 4 4 3 6 -2 c1 -3 3 -3 4 0 c1 2 3 2 7 -3; s nv 1.2 M28 57 h22
+~rare<|!c 32 32 29 #4f8fd8/16; o 32 32 28 #4f8fd8/45 1.5
+~rare>|!@star(#4f8fd8,6,52,11)
+~handmade>|!sd #c94f8c 1.6 3,2.6 M32 5 a27 27 0 1 1 -0.1 0; s gy 1.2 M48 50 l10 9; o 47 49 1.6 gy 0.9
+~rot>|!c 15 47 4.2 #6f7f3a/85; c 20 51 3 #8a9a3a/85; c 47 17 3 #6f7f3a/75; c 50 20 2 #8a9a3a/75; r 46 50 2.4 5 cr 0.6; p #c96f4a M43 51 c0 -5 8 -5 8 0z
+~cursed<|!c 32 32 29 #8b6cc9/24
+~cursed>|!s #8b6cc9/85 2 M9 42 c-4 -6 4 -10 0 -16 M55 42 c4 -6 -4 -10 0 -16 M32 6 c-3 -2 3 -4 0 -6
+~ghost>|!s #9aa4b0 2 M6 52 c4 -4 8 4 12 0 M46 54 c4 -4 8 4 12 0; s #9aa4b0/80 1.6 M10 18 c3 -3 6 3 9 0
+~royal>|!p gd M42 15 l1 -10 l6 6 l4 -8 l4 8 l6 -6 l1 10z; r 42 14 22 5 ok 1.5; c 47.5 16.5 1.2 rd; c 53 16.5 1.4 bl; c 58.5 16.5 1.2 rd
+~diamond<|!c 32 32 29 #8cc8f0/24
+~diamond>|!p sk M47 4 h7 l3 4 l-6.5 8 l-6.5 -8z; p wh/75 M47 4 l3.5 4 h-6.5z; s bl/60 0.8 M47 4 h7 l3 4 l-6.5 8 l-6.5 -8z; p sk M8 46 h4 l2 3 l-4 5 l-4 -5z; @spark(wh,56,42,2.5)
+~legend<|!c 32 32 26 #f6c945/22; s #f6c945/55 3 M32 1 V8 M32 56 V63 M1 32 H8 M56 32 H63 M10 10 l5 5 M54 10 l-5 5 M10 54 l5 -5 M54 54 l-5 -5
+~legend>|!@star(gd,7,52,11); @star(yl,3.5,52,11)
+~black>|!s wh/45 2 M18 16 c4 -4 10 -6 14 -6; s wh/30 1.5 M46 46 c2 -2 4 -4 4 -8
+~neon<|!o 32 32 27 pk/65 3; o 32 32 23 tl/50 2
+~crystal>|!p wh/70 M13 18 l4 -6 l4 6 l-4 6z; p wh/55 M46 45 l3 -5 l3 5 l-3 5z; @spark(wh,51,11,3.4)
+~frozen<|!r 6 6 52 52 #cfe8f5/60 10
+~frozen>|!p #eef7fc M8 7 h48 v3 l-3 4 l-2 -4 l-3 7 l-3 -7 l-3 5 l-3 -5 l-3 8 l-3 -8 l-3 5 l-3 -5 l-3 6 l-3 -6 l-3 4 l-2 -4 l-3 6 l-3 -6 v-3z; s sk/70 1 M8 10 h48; @spark(wh,51,49,3)
+~burnt>|!s dk/70 2 M24 10 c-3 -3 3 -5 0 -8 M34 12 c-3 -3 3 -5 0 -8; c 15 45 4 bk/40; c 47 41 3 bk/40; c 41 51 2.5 bk/35
+~cosmic<|!c 32 32 29 nv/85; c 10 18 1 wh; c 54 14 1.2 wh; c 50 53 1 wh; c 13 50 0.8 wh; c 28 6 0.8 wh
+~cosmic>|!c 53 11 4.2 pu; e 53 11 7.5 2 lv/85
+~spoiled>|!s gn/85 1.6 M20 14 c-3 -3 3 -5 0 -8 M30 12 c-3 -3 3 -5 0 -8 M40 14 c-3 -3 3 -5 0 -8; c 49 21 1.6 bk; e 47.6 19.4 1.6 1 wh/85; e 50.4 19.4 1.6 1 wh/85

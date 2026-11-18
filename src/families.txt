@@ -1,0 +1,45 @@
+# Kokoelmat: nimi|esineiden tunnisteet. Kun kaikki kokoelman tavarat on löydetty, niistä saa pysyvästi paremmat tarjoukset.
+Kamerat|kertakayttokamera pikakamera filmikamera digikamera kamera jarjestelmakamera videokamera elokuvakamera
+Puhelimet|puhelimen-luuri lankapuhelin nappainpuhelin langaton-puhelin hakulaite kannykka simpukkapuhelin alypuhelin taittuva-alypuhelin
+Polkupyörät|potkupyora kolmipyora bmx-pyora polkupyora maastopyora tandempyora sahkopyora kilpapyora
+Autot|pikkuauto auto taksi farmariauto avolava-auto maasturi avoauto sahkoauto urheiluauto limusiini kilpa-auto
+Hyötyajoneuvot|pakettiauto poliisiauto ambulanssi paloauto kuorma-auto rekka traktori koulubussi linja-auto
+Raideliikenne|raitiovaunu kiskobussi junavaunu hoyryveturi lahijuna vuoristojuna kevytraide luotijuna suurnopeusjuna
+Veneet ja laivat|kanootti kajakki soutuvene purjevene moottorivene huvijahti hoyrylaiva purjelaiva risteilyalus valtamerilaiva
+Ilmailu|paperilennokki pienlentokone liitokone helikopteri vesitaso yksityiskone matkustajakone rahtikone
+Kellot|munakello heratyskello sekuntikello rannekello taskukello alykello kakikello kaappikello tiimalasi
+Kielisoittimet|ukulele kitara banjo kantele viulu sahkokitara sello
+Koskettimet ja puhaltimet|huilu trumpetti saksofoni haitari sahkopiano piano flyygeli kirkkourut
+Soittimet ja levyt|radio kasettisoitin cd-soitin mp3-soitin levysoitin gramofoni jukeboksi
+Tallenteet|c-kasetti videokasetti levyke cd-levy dvd-levy blu-ray-levy minidisc vinyylisingle muistitikku muistikortti
+Tuolit|jakkara tuoli rahi keinutuoli toimistotuoli nojatuoli sohva valtaistuin
+Koirat|koiranpentu koira mayrakoira villakoira kultainennoutaja husky
+Kissat|kissanpentu kissa persialainen-kissa
+Maatilan eläimet|tipu kukko kalkkuna karitsa lammas porsas sika vuohi lehma aasi hevonen
+Linnut|varpunen kyyhky undulaatti kanarialintu papukaija pollo kakadu joutsen flamingo kotka riikinkukko hanhi pingviini
+Kalat|kultakala ahven kala hauki lohi pallokala hai
+Pedot|susi ilves karhu leopardi leijona tiikeri jaakarhu
+Mitalit ja palkinnot|pronssimitali hopeamitali kultamitali mitali pokaali kunniamerkki
+Pallot|tennispallo golfpallo pesapallo softballpallo jalkapallo koripallo lentopallo kasipallo rugbypallo amerikkalainen-jalkapallo keilapallo biljardipallo
+Marjat|puolukka mustikka vadelma lakka mansikka
+Sitrushedelmät|sitruuna lime mandariini appelsiini greippi
+Leivät ja leivonnaiset|sampyla leipa ruisleipa rieska patonki rinkeli croissant korvapuusti pulla karjalanpiirakka
+Sienet|sieni karpassieni kantarelli
+Puut|kuusi manty koivu lehtipuu palmu bonsai mammuttipetaja joulukuusi
+Kukat|voikukka tulppaani ruusu orvokki narsissi kielo pioni orkidea hyasintti auringonkukka hibiskus kirsikankukka
+Kynät|kyna varikyna kuulakarkikyna huopakyna korostuskyna taytekyna variliitu
+Valot|tulitikku kynttila tuikku taskulamppu otsalamppu oljylamppu lyhty poytalamppu laavalamppu hehkulamppu led-lamppu kattokruunu
+Kengät|sandaalit varvassandaalit tohvelit balettitossut ballerinat lenkkarit nahkakengat korkokengat saappaat kumisaappaat vaelluskengat
+Hatut|lippalakki pipo olkihattu baskeri cowboy-hattu silinteri ylioppilaslakki
+Laukut|kukkaro pikkulaukku vyolaukku kasilaukku olkalaukku reppu rinkka salkku matkalaukku
+Kirjat|vihko muistikirja pokkari satukirja runokirja keittokirja sanakirja tietosanakirja kirja
+Talot|kesamokki hirsimokki omakotitalo kerrostaloasunto huvila kartano linna palatsi
+Vuoret|tunturi kartiovuori lumihuippuinen-vuori tulivuori vuoristo kanjoni
+Sää|sade sumu tuuli salama ukkosmyrsky tornado hurrikaani
+Kuu|kuunsirppi puolikuu taysikuu kuunpimennys kuukunta
+Tähtikuviot|oinaan-tahdisto leijonan-tahdisto skorpionin-tahdisto kalojen-tahdisto
+Tähdet|punainen-kaapio tahti valkoinen-kaapio punainen-jattilainen sininen-jattilainen neutronitahti pulsari kaksoistahti
+Planeetat|punainen-planeetta maapallo saturnus jaaplaneetta laavaplaneetta kaasujattilainen jaajattilainen kaapioplaneetta eksoplaneetta vesiplaneetta timanttiplaneetta kaksoisplaneetta
+Avaruusmatkailu|pienoisraketti raketti satelliitti avaruussukkula avaruusasema kuumonkija marsmonkija avaruusristeilija sukupolvialus tahtilaiva
+Avaruuden asutus|kuutukikohta mars-siirtokunta avaruushissi avaruussatama kuukaupunki avaruuskaupunki dysonin-pallo
+Yhtiöt|leipomo lahikauppa tavaratalo ostoskeskus pankki keskuspankki laivavarustamo rautatieyhtio autotehdas kaivosyhtio

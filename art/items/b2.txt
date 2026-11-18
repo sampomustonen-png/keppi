@@ -1,0 +1,132 @@
+kuppikakku|p pk M14 30 c0 -10 8 -16 18 -16 c10 0 18 6 18 16z; p #f6c0cf M18 26 c4 -6 10 -8 14 -8 c-4 4 -6 8 -6 10z; c 32 14 3.5 rd; p sk M16 30 h32 l-4 24 h-24z; s bl 1.5 M22 30 l2 24 M28 30 l1 24 M36 30 l-1 24 M42 30 l-2 24; r 32 22 4 1.5 yl; r 22 24 1.5 4 wh; r 40 24 4 1.5 wh
+tennispallo|@orb(#d6e04a,#a9b52f,18,32,36); s wh 2.5 M18 24 c8 4 10 16 2 26 M46 24 c-8 4 -10 16 -2 26
+saippua|r 12 26 40 24 pk 8; r 12 38 40 12 mg/30 6; e 26 32 8 3 wh/50; c 46 20 4 wh; o 46 20 4 sk 1; c 50 12 2.5 wh; o 50 12 2.5 sk 1; c 40 14 2 wh; o 40 14 2 sk 1
+jojo|s gy 1.2 M32 6 V18; @orb(rd,dr,17,32,36); c 32 36 9 dr/40; c 32 36 3 lt
+kynttila|p yl M32 6 c4 6 6 10 3 14 c-2 2 -4 2 -6 0 c-3 -4 -1 -8 3 -14z; p or M32 12 c2 3 3 6 1 8 c-1 1 -2 1 -3 0 c-1 -2 0 -5 2 -8z; s dk 1.5 M32 20 v4; r 24 24 16 28 cr 3; r 34 24 6 28 sn 2; e 32 54 14 3.5 gy; r 18 50 28 4 gy 2
+villasukat|p rd M18 8 h16 v24 l12 8 c5 4 3 14 -4 13 l-10 -1 c-6 -1 -10 -4 -14 -9z; p dr/40 M34 32 l12 8 c5 4 3 14 -4 13 l-10 -1 c4 -6 4 -14 2 -20z; r 18 8 16 6 wh 2; s wh 2.5 M18 20 h16 M18 26 h16
+kahvikuppi|e 32 55 22 3.5 lt; @mug(tl,#2a8a7e); s lt 2 M24 16 c-3 -4 3 -6 0 -10; s lt 2 M34 15 c-3 -4 3 -6 0 -10
+teekuppi|e 32 50 24 6 lt; e 32 49 22 5 wh; o 48 36 5 wh 3; p wh M12 30 h36 c0 10 -8 18 -18 18 c-10 0 -18 -8 -18 -18z; s lt 1.2 M12 30 h36 c0 10 -8 18 -18 18 c-10 0 -18 -8 -18 -18z; e 30 30 18 3.5 #b5772f; s gy 1 M36 30 L44 18; r 42 13 6 6 gn 1
+kuplatee|s pk 3 M36 14 L40 2; p #f0d9b5 M18 14 h28 l-3 40 h-22z; p #e2c595 M38 14 h8 l-3 40 h-6z; e 32 14 14 3 lt; c 26 48 2.5 db; c 32 50 2.5 db; c 38 47 2.5 db; c 29 44 2.5 db; c 35 44 2.5 db; r 18 12 28 4 wh/60 1
+lippalakki|p bl M10 38 c0 -14 10 -22 22 -22 c12 0 22 8 22 22z; p nv/35 M42 18 c8 4 12 12 12 20 h-8 c0 -8 -2 -14 -4 -20z; p nv M32 38 h28 c2 0 2 6 -2 6 h-26z; c 32 16 2.5 nv; s nv/60 1.5 M32 17 V38
+kirja|@book(rd,dr)
+runokirja|@book(gn,dg,yl/80)
+sanakirja|@book(bl,nv)
+keittokirja|@book(or,ok); c 33 39 6 wh/60; s ok 1.5 M30 36 v6 M33 36 v6 M36 36 v6
+leija|!p rd M32 6 L50 26 L32 50 L14 26z; p yl M32 6 L50 26 L32 26z; p yl M32 50 L14 26 L32 26z; s dk 1 M32 6 V50 M14 26 H50; s dk 1.2 M32 50 c-4 4 4 6 0 10; p bl M30 54 l-4 -2 l2 4z; p gn M32 58 l4 -2 l-2 4z
+pizza|p yl M12 20 c13 -4 27 -4 40 0 L32 56z; p or/40 M32 56 L52 20 c-3 -1 -6 -1 -9 -1z; p lb M8 14 c14 -6 34 -6 48 0 l-2 7 c-14 -5 -30 -5 -44 0z; c 26 28 4 dr; c 38 30 4 dr; c 32 41 3.5 dr; p yl M22 22 c1 4 1 6 -1 8 c-2 -2 -2 -5 1 -8z
+taskulamppu|g -30 32 32; r 14 26 28 12 dk 3; r 18 24 4 16 gy 1; p gy M42 24 h8 l4 -4 v24 l-4 -4 h-8z; e 54 32 2 12 yl; r 26 28 6 3 rd 1; /g
+juusto|p #fbe08a M8 38 L46 18 L56 28z; p yl M8 38 L56 28 V50 L8 52z; c 22 44 3 gd; c 36 42 2 gd; c 46 38 3 gd; e 34 28 3 1.5 gd
+sushi|e 32 44 18 8 wh; s lt 1 M14 44 c0 6 8 9 18 9 c10 0 18 -3 18 -9; p or M12 36 c4 -8 36 -8 40 0 c0 4 -10 6 -20 6 c-10 0 -20 -2 -20 -6z; s wh/70 1.5 M18 34 l6 4 M28 32 l6 5 M38 32 l6 5; r 28 30 8 22 #2d3b2f 1
+kuppijaatelo|s wh 2 M34 22 L44 10; r 40 7 8 4 yl 1; c 24 30 8 wh; c 40 30 8 pk; c 32 24 9 #8b5a3c; p rd M16 34 h32 l-4 20 h-24z; p dr/40 M40 34 h8 l-4 20 h-6z
+aterimet|s gy 3.5 M22 56 V30; s gy 2 M17 10 v12 c0 4 2 6 5 6 c3 0 5 -2 5 -6 V10 M22 10 v12; r 36 30 6 26 gy 3; p lt M38 8 c6 4 8 14 4 24 h-4z
+sivellin|g 40 32 32; r 29 26 6 30 br 3; r 28 20 8 8 gy 1; p db M28 20 c0 -6 2 -12 4 -14 c2 2 4 8 4 14z; p bl M28.5 14 c1 -3 2 -6 3.5 -8 c1.5 2 2.5 5 3.5 8z; /g
+vanha-avain|s ok 5 M18 46 L46 18; o 50 14 7 ok 4; s ok 4 M24 40 l-6 -6 M28 44 l-5 -5 M20 48 l-4 -4; c 50 14 2 ok; s gd 1.5 M20 44 L44 20
+konserttilippu|g -12 32 34; r 8 20 48 26 pu 3; s wh 1.5 M42 20 v26; r 14 26 20 4 wh/70 1; r 14 34 14 4 wh/50 1; s wh 2 M50 24 v10; e 48 35 2.5 2 wh; /g
+kalenteri|r 12 14 40 40 wh 4; s lt 1.5 M16 14 h32 c2 0 4 2 4 4 v32 c0 2 -2 4 -4 4 h-32 c-2 0 -4 -2 -4 -4 v-32 c0 -2 2 -4 4 -4z; r 12 14 40 12 rd 4; r 12 22 40 4 rd; r 20 10 3 8 dk 1; r 41 10 3 8 dk 1; r 18 32 5 4 lt; r 27 32 5 4 lt; r 36 32 5 4 lt; r 18 40 5 4 lt; r 27 40 5 4 rd; r 36 40 5 4 lt
+muistikirja|r 14 10 36 46 br 4; r 46 13 4 40 cr 1; r 40 10 4 46 db; r 20 18 16 10 sn 2; s br 1.2 M23 22 h10 M23 25 h7
+t-paita|@shirt(gn,dg)
+kaulaliina|p rd M14 14 c8 -4 28 -4 36 0 v10 c-8 4 -28 4 -36 0z; p dr/40 M14 20 c8 4 28 4 36 0 v4 c-8 4 -28 4 -36 0z; p rd M36 22 h10 v30 h-10z; s wh 2.5 M36 30 h10 M36 38 h10; s dr 1.5 M37 52 v4 M41 52 v4 M45 52 v4
+hanskat|p bl M10 26 c0 -8 4 -14 10 -14 c6 0 10 6 10 14 v16 h-20z; p bl M30 30 c4 -4 8 -2 8 2 c0 3 -4 6 -8 8z; r 9 42 22 8 wh 2; p rd M34 26 c0 -8 4 -14 10 -14 c6 0 10 6 10 14 v16 h-20z; p rd M54 30 c4 -4 8 -2 8 2 c0 3 -4 6 -8 8z; r 33 42 22 8 wh 2
+lukko|s gy 5 M22 28 V20 c0 -14 20 -14 20 0 V28; r 14 28 36 26 gd 5; r 14 44 36 10 ok/40 4; c 32 38 3.5 db; r 30.5 39 3 7 db 1
+sakset|s gy 3.5 M24 42 L44 10 M40 42 L20 10; c 32 29 1.8 dk; o 22 48 6 rd 3.5; o 42 48 6 rd 3.5
+ketju|g -30 32 32; s gy 3.5 M4 32 a7 4.5 0 1 0 14 0 a7 4.5 0 1 0 -14 0; s dk 3.5 M16 32 h12; s gy 3.5 M25 32 a7 4.5 0 1 0 14 0 a7 4.5 0 1 0 -14 0; s dk 3.5 M37 32 h12; s gy 3.5 M46 32 a7 4.5 0 1 0 14 0 a7 4.5 0 1 0 -14 0; /g
+hammasratas|c 32 33 15 gy; g 0 32 33; r 28 12 8 8 gy 1; r 28 46 8 8 gy 1; /g; g 45 32 33; r 28 12 8 8 gy 1; r 28 46 8 8 gy 1; /g; g 90 32 33; r 28 12 8 8 gy 1; r 28 46 8 8 gy 1; /g; g 135 32 33; r 28 12 8 8 gy 1; r 28 46 8 8 gy 1; /g; c 32 33 6 lt; o 32 33 6 dk 1.5; p dk/25 M42 44 c3 -3 5 -7 5 -11 c0 -3 -1 -6 -3 -8 c1 8 0 14 -2 19z
+ruuvimeisseli|g 40 32 32; r 30 6 4 26 gy 1; p dk M30 6 h4 l-1 -3 h-2z; r 26 30 12 26 yl 6; r 26 30 12 26 or/30 6; s ok 1.2 M29 34 v18 M32 34 v18 M35 34 v18; /g
+ampari|s gy 2 M14 22 c0 -14 36 -14 36 0; p bl M12 22 h40 l-4 32 h-32z; p nv/40 M40 22 h12 l-4 32 h-10z; e 32 22 20 4 nv; r 12 30 40 3 sk/60
+hiirenloukku|p lb M8 40 L40 30 L56 40 L24 50z; p br M8 40 L24 50 V54 L8 44z; p db M24 50 L56 40 V44 L24 54z; s gy 2 M18 40 L34 34 L44 40 L28 46z; p yl M30 38 l6 -2 l2 3 l-6 2z
+lankakera|s pk 2 M44 46 c6 2 10 6 12 10; @orb(pk,mg,18,32,34); s mg/60 1.8 M18 26 c8 4 20 4 28 -4 M16 34 c10 6 24 6 32 -4 M20 44 c8 2 18 0 24 -10 M28 16 c-4 8 -4 26 4 34
+koukku|o 32 8 4 gy 3; s gy 4 M32 12 V40 c0 10 -14 10 -14 0 v-4; p gy M15 38 l3 -7 l3 7z
+munakello|e 32 34 15 18 yl; p ok/40 M38 51 c6 -3 9 -10 9 -17 c0 -6 -2 -11 -5 -14 c2 12 0 24 -4 31z; s ok 1.2 M18 30 h28; r 30 12 4 4 dk 1; s dk 1.2 M24 30 v-3 M32 30 v-4 M40 30 v-3
+lampomittari|r 27 8 10 40 lt 5; r 28.5 9.5 7 37 wh 4; c 32 48 8 rd; r 30 22 4 26 rd 2; s gy 1.2 M37 16 h3 M37 22 h3 M37 28 h3 M37 34 h3
+koeputki|g 25 32 32; r 26 6 12 6 lt 1; p wh M27 10 h10 v36 c0 4 -2 6 -5 6 c-3 0 -5 -2 -5 -6z; p gn M27 28 h10 v18 c0 4 -2 6 -5 6 c-3 0 -5 -2 -5 -6z; s gy/70 1.2 M27 10 v36 c0 4 2 6 5 6 c3 0 5 -2 5 -6 v-36; c 30 36 1.5 lg; c 34 42 1 lg; /g
+levyke|r 12 12 40 40 bl 3; r 20 12 22 14 lt 1; r 34 14 5 10 bl 1; r 18 32 28 20 wh 2; s lt 1.2 M22 38 h20 M22 43 h20 M22 48 h12
+cd-levy|c 32 34 20 #d7dde6; p pu/40 M32 14 a20 20 0 0 1 20 20 h-14 a6 6 0 0 0 -6 -6z; p sk/50 M12 34 a20 20 0 0 0 20 20 v-14 a6 6 0 0 1 -6 -6z; p pk/40 M52 34 a20 20 0 0 1 -20 20 v-14 a6 6 0 0 0 6 -6z; c 32 34 6 lt; c 32 34 3 #ece5d6; o 32 34 20 gy 1
+dvd-levy|c 32 34 20 gd; p yl/60 M32 14 a20 20 0 0 1 20 20 h-14 a6 6 0 0 0 -6 -6z; p or/40 M12 34 a20 20 0 0 0 20 20 v-14 a6 6 0 0 1 -6 -6z; c 32 34 6 lt; c 32 34 3 #ece5d6; o 32 34 20 ok 1
+videokasetti|r 8 18 48 30 bk 3; r 14 22 36 14 wh 2; c 22 29 5 dk; c 42 29 5 dk; c 22 29 2 lt; c 42 29 2 lt; r 27 26 10 6 dk/50 1; r 16 40 32 6 dk 1
+jatkojohto|s dk 3 M14 56 C14 40 30 44 30 32; r 26 6 3 10 gy 1; r 35 6 3 10 gy 1; r 22 14 18 18 wh 4; s gy/70 1.2 M22 18 v10 M40 18 v10; r 22 26 18 6 lt 2
+tulppaani|s gn 3 M32 34 V56; p gn M32 48 c-8 -2 -14 -10 -14 -18 c8 2 14 8 14 18z; p dg M32 44 c8 -2 12 -8 14 -16 c-8 2 -14 8 -14 16z; p rd M20 14 l6 6 l6 -8 l6 8 l6 -6 v12 c0 6 -6 10 -12 10 c-6 0 -12 -4 -12 -10z; p dr/35 M38 20 l6 -6 v12 c0 6 -6 10 -12 10 c4 -3 6 -9 6 -16z
+ruusu|s dg 3 M32 30 V56; p gn M32 46 c-6 -6 -14 -6 -16 -2 c6 4 12 4 16 2z; p dg M32 40 c6 -6 14 -6 16 -2 c-6 4 -12 4 -16 2z; c 32 22 13 rd; p dr M32 12 c-6 0 -10 4 -10 10 c4 -4 10 -6 14 -4 c-4 -2 -6 -4 -4 -6z; s dr 1.6 M24 22 c2 -6 10 -8 14 -4 c3 3 2 9 -3 10 c-4 1 -6 -2 -5 -4 M20 26 c2 6 8 9 14 8
+kirsikankukka|c 32 18 9 pk; c 45 27 9 pk; c 40 42 9 pk; c 24 42 9 pk; c 19 27 9 pk; c 32 32 7 #f7c6d3; c 32 32 3 mg; s mg 1 M32 32 l-3 -6 M32 32 l5 -4 M32 32 l4 5 M32 32 l-5 3
+hibiskus|c 32 18 10 rd; c 46 28 10 rd; c 40 44 10 rd; c 24 44 10 rd; c 18 28 10 rd; c 32 32 9 dr/50; s yl 2 M32 32 L44 16; c 45 14 2.5 yl; c 32 32 4 dr
+rosetti|p bl M24 36 l-6 20 l6 -4 l4 6 l4 -18z; p bl M40 36 l6 20 l-6 -4 l-4 6 l-4 -18z; @star(gd,18,32,28,0.82); c 32 28 11 yl; c 32 28 7 gd
+bambunverso|s gn 6 M26 56 V8 M38 56 V14; s dg 1.5 M23 20 h6 M23 34 h6 M23 46 h6 M35 26 h6 M35 40 h6; p gn M26 20 c6 -4 12 -10 14 -16 c-6 2 -12 8 -14 16z; p dg M38 28 c6 -2 12 -6 14 -12 c-6 0 -12 4 -14 12z
+tahtisadetikku|s gy 2 M14 56 L36 26; @spark(yl,38,24,14); @spark(or,38,24,8); c 38 24 3 wh; c 52 12 1.2 yl; c 26 12 1 yl; c 54 34 1 or
+konfettitykki|p pu M10 54 L22 26 L38 42z; s yl 2 M14 46 l10 4 M18 38 l10 6; r 30 18 4 2 rd; r 40 22 2 4 bl; r 44 12 4 2 gn; r 36 8 2 4 yl; r 50 26 3 2 pk; s rd 1.5 M30 30 c4 -4 8 -2 12 -8; s yl 1.5 M34 36 c6 0 10 -6 14 -4
+onnenamuletti|s gd 2 M32 16 V9; o 32 7 2.5 gd 1.5; c 32 34 18 nv; c 32 34 13 wh; c 32 34 9 sk; c 32 34 5 bk; c 29 31 1.5 wh
+punainen-kirjekuori|r 18 10 28 44 rd 3; p dr M18 10 h28 v10 c-6 6 -22 6 -28 0z; c 32 26 5 gd; c 32 26 3 yl; r 24 38 16 3 gd/70 1
+paperilyhty|s dk 1.5 M32 4 V10; r 26 9 12 4 dk 1; e 32 32 18 20 rd; s dr 1.5 M32 12 c-10 6 -10 34 0 40 M32 12 c10 6 10 34 0 40 M14 32 h36; r 26 50 12 4 dk 1; s yl 1.5 M30 54 v4 M34 54 v4
+hampurilainen|p lb M10 28 c0 -10 10 -16 22 -16 c12 0 22 6 22 16z; c 22 18 0.8 cr; c 30 15 0.8 cr; c 38 18 0.8 cr; c 44 22 0.8 cr; p gn M8 30 c4 -4 6 2 10 -2 c4 -4 6 2 10 -2 c4 -4 6 2 10 -2 c4 -4 6 2 10 -2 c4 -4 6 2 8 0 v4 h-48z; r 10 32 44 4 yl 1; r 10 36 44 6 db 3; r 10 42 44 4 rd 1; p lb M10 46 h44 c0 6 -4 8 -8 8 h-28 c-4 0 -8 -2 -8 -8z
+taco|p ok M8 44 c0 -16 10 -28 24 -28 c14 0 24 12 24 28z; p gn M11 34 c4 -6 8 -2 10 -6 c4 -4 8 2 12 -2 c4 -4 8 2 12 -2 c4 -2 6 4 6 10 c-12 -4 -28 -4 -40 0z; c 22 30 2 rd; c 36 26 2 rd; c 44 30 2 yl; p gd M12 46 c0 -12 9 -20 20 -20 c11 0 20 8 20 20z; s ok/50 1.2 M14 46 h36
+burrito|g -30 32 34; r 10 22 44 22 cr 10; r 10 33 44 11 sn 6; p gn M10 26 c-4 2 -4 14 0 16 c2 -2 4 -4 2 -8 c-2 -4 -2 -6 -2 -8z; c 12 30 2 rd; c 11 37 2 yl; /g
+tamale|g -20 32 34; p #d7c38a M8 34 l10 -12 h28 l10 12 l-10 12 h-28z; p yl M18 26 h28 l6 8 l-6 8 h-28 l-6 -8z; s ok 1.2 M20 30 h24 M20 38 h24; /g
+falafel|e 32 48 24 7 lt; @orb(br,db,9,22,40); @orb(br,db,9,40,40); @orb(br,db,9,31,30); c 18 36 0.8 gn; c 44 38 0.8 gn; c 30 26 0.8 gn
+pitaleipa|p lb M14 16 c6 -6 30 -6 36 0 l-4 40 h-28z; p rd M18 20 c4 -4 24 -4 28 0 l-1 6 h-26z; p gn M17 24 c4 2 8 -2 12 0 c4 2 8 -2 16 0 l-1 4 h-27z; c 24 20 2 wh; c 38 20 2 rd; p wh M15 34 h34 l-3 22 h-28z; s lt 1 M16 40 h32
+salaatti|@bowl(wh,lt,gn); c 22 30 4 lg; c 30 28 4 gn; c 40 30 4 lg; c 26 31 2.5 rd; c 38 28 2.5 rd; c 34 31 2.5 yl; s lt 1 M10 33 h44 c0 12 -10 21 -22 21 c-12 0 -22 -9 -22 -21
+keittopata|s wh/60 2 M24 16 c-3 -4 3 -6 0 -10 M36 15 c-3 -4 3 -6 0 -10; s dk 3 M10 30 h-4 M54 30 h4; p dk M10 26 h44 v20 c0 6 -4 8 -10 8 h-24 c-6 0 -10 -2 -10 -8z; p bk/30 M42 26 h12 v20 c0 6 -4 8 -10 8 h-4 c2 -2 2 -6 2 -10z; e 32 26 22 5 or; c 24 25 2.5 rd; c 36 24 2.5 gn; c 42 26 2 cr
+spagetti|s gy 2 M46 30 L56 8; e 32 46 25 8 lt; e 32 45 20 6 wh; p yl M14 42 c0 -10 8 -16 18 -16 c10 0 18 6 18 16z; s gd 1.2 M16 40 c4 -6 8 -6 12 0 c4 6 8 6 12 0 c2 -4 4 -4 8 -2 M20 34 c4 -4 8 -2 10 2 c2 4 8 4 10 0; p rd M22 30 c4 -6 16 -6 20 0 c-6 4 -14 4 -20 0z; @orb(br,db,4,26,28); @orb(br,db,4,38,28)
+nuudelikeitto|s br 2.5 M36 30 L50 8 M40 30 L54 10; @bowl(rd,dr,#f3d9a4); s yl 1.5 M16 32 c4 -2 8 2 12 0 c4 -2 8 2 12 0 c4 -2 8 2 12 0; c 24 31 4 wh; c 24 31 2 yl; r 36 29 8 4 pk 1; p gn M42 31 l4 -2 l2 2z
+curry|e 32 46 25 8 lt; e 32 45 20 6 wh; p wh M14 44 c0 -8 6 -12 12 -12 c4 0 6 2 8 6 v6z; p or M28 44 v-6 c4 -4 8 -6 12 -6 c6 0 10 4 10 12z; c 34 40 2.5 ok; c 42 38 2.5 ok; c 44 43 2 gn
+evasrasia|r 8 18 48 34 dk 4; r 11 21 20 28 wh 2; r 33 21 20 13 gn 2; r 33 36 20 13 or 2; c 21 35 4 rd; c 40 27 2 rd; c 46 28 2 yl; c 40 42 2 rd; c 47 43 2.5 sn
+nyytti|p sn M8 44 c0 -12 10 -20 24 -20 c14 0 24 8 24 20 c-6 4 -42 4 -48 0z; p lb/40 M10 46 c8 4 36 4 44 0 c-2 -6 -6 -10 -10 -12 c2 6 2 10 -2 12 c-10 2 -22 2 -32 0z; s lb 1.5 M14 32 c2 4 4 4 6 2 c2 -2 4 -2 6 2 c2 4 4 4 6 2 c2 -2 4 -2 6 2 c2 4 4 4 6 2 c2 -2 4 -2 6 0
+kakkupala|p #c9895e M10 50 H54 V24z; p cr M23.5 42 H54 V39 L28.6 39z; p cr M37.1 34 H54 V31 L42.2 31z; s pk 4 M10 50 L54 24 V30; c 51 19 4 rd; s dg 1.5 M51 15 l2 -4
+piirakka|p gd M8 38 c0 -10 10 -16 24 -16 c14 0 24 6 24 16 v6 c0 4 -10 8 -24 8 c-14 0 -24 -4 -24 -8z; p ok/40 M8 44 c0 4 10 8 24 8 c14 0 24 -4 24 -8 v-6 c0 4 -10 8 -24 8 c-14 0 -24 -4 -24 -8z; e 32 38 24 8 ok; e 32 37 22 7 #a63d40; s gd 2.5 M20 32 l20 10 M16 37 l18 9 M30 30 l18 8 M44 31 l-22 11 M48 36 l-18 9 M36 29 l-18 8
+kanankoipi|s cr 5 M40 40 L50 50; c 48 52 3.5 cr; c 52 48 3.5 cr; p br M14 22 c6 -10 22 -10 28 2 c4 8 2 16 -6 18 c-8 2 -16 -4 -20 -10 c-2 -3 -3 -7 -2 -10z; p db/40 M42 24 c4 8 2 16 -6 18 c-6 1 -12 -2 -16 -6 c8 4 18 0 22 -12z; e 24 20 4 3 wh/40
+lihaluu|s cr 6 M6 46 L58 18; c 6 42 3.5 cr; c 9 48 3.5 cr; c 55 16 3.5 cr; c 58 21 3.5 cr; g -28 32 32; e 32 32 17 13 #b5503c; e 32 31 14 10 #d4704f; e 27 28 4 3 wh/40; /g
+pekoni|s #c9584a 8 M6 24 c8 -8 12 8 20 0 c8 -8 12 8 20 0 c4 -4 8 -2 12 0; s #f2b5a5 2 M6 22 c8 -8 12 8 20 0 c8 -8 12 8 20 0 c4 -4 8 -2 12 0; s #c9584a 8 M6 42 c8 -8 12 8 20 0 c8 -8 12 8 20 0 c4 -4 8 -2 12 0; s #f2b5a5 2 M6 40 c8 -8 12 8 20 0 c8 -8 12 8 20 0 c4 -4 8 -2 12 0
+kuukakku|@orb(gd,ok,18,32,36); c 32 36 12 ok/30; @star(ok,7,32,36,0.5); c 32 18 2 ok; c 50 36 2 ok; c 14 36 2 ok; c 32 54 2 ok
+dango|s lb 2.5 M32 6 V58; c 32 16 7 pk; c 32 30 7 wh; o 32 30 7 lt 1; c 32 44 7 gn
+oden-varras|s lb 2.5 M32 4 V58; p gy M24 22 L32 8 L40 22z; c 32 32 7 #e7cfa0; r 25 40 14 12 #f1e2c4 4; s lb 1 M27 44 h10 M27 48 h10
+vesimeloni|p gn M6 26 h52 c0 16 -12 28 -26 28 c-14 0 -26 -12 -26 -28z; p #f6f1d5 M9 26 h46 c0 14 -10 25 -23 25 c-13 0 -23 -11 -23 -25z; p rd M12 26 h40 c0 12 -9 22 -20 22 c-11 0 -20 -10 -20 -22z; e 22 32 1.2 2 bk; e 32 36 1.2 2 bk; e 42 32 1.2 2 bk; e 27 42 1.2 2 bk; e 37 42 1.2 2 bk
+hunajameloni|@orb(#c8db8a,#9fb562,19,32,36); s #9fb562 1.2 M20 22 c-4 10 -4 20 2 30 M32 17 c-2 12 -2 26 0 38 M44 22 c4 10 4 20 -2 30
+hiiri|s pk 2 M48 46 c10 0 12 -8 8 -14; e 32 42 18 12 gy; p dk/25 M40 53 c6 -2 10 -6 10 -11 c0 -4 -2 -7 -4 -9 c1 7 0 15 -6 20z; e 16 38 9 8 gy; c 20 28 7 gy; c 20 28 4 pk; c 8 40 2 pk; c 14 36 1.4 bk; s dk 1 M9 42 l-7 2 M9 40 l-7 -2
+rotta|s pk 2.5 M48 48 c12 2 14 -10 8 -16; e 32 42 19 12 #8a7f78; e 15 39 10 8 #8a7f78; c 20 29 6 #8a7f78; c 20 29 3.5 pk; c 6 41 2 pk; c 13 37 1.4 bk; s dk 1 M7 43 l-6 2 M7 41 l-6 -2
+orava|p or M40 50 c10 -2 16 -12 14 -24 c-2 -10 -10 -16 -18 -12 c6 4 8 12 4 20 c-2 6 -4 10 0 16z; p ok/40 M40 50 c10 -2 16 -12 14 -24 c-2 8 -6 16 -14 24z; e 28 42 11 12 or; e 28 45 6 8 cr; c 24 26 8 or; p or M20 20 l2 -8 l4 6z; c 21 25 1.5 bk; c 17 28 1.2 db; e 26 52 6 3 ok; @orb(br,db,3.5,18,38)
+tipu|p yl M32 14 l-2 -5 l4 2z; e 32 40 16 14 yl; c 32 24 10 yl; p ok/35 M40 52 c6 -3 8 -8 8 -12 c0 -4 -1 -7 -3 -9 c1 8 0 15 -5 21z; p or M28 26 l4 4 l4 -4z; c 28 21 1.5 bk; c 36 21 1.5 bk; p ok M18 40 c-4 -2 -6 2 -4 6 c2 -2 4 -2 4 -6z; s or 2 M28 54 v3 M36 54 v3
+kuoriutuva-poikanen|c 32 22 10 yl; p or M30 24 l3 3 l3 -3z; c 29 20 1.4 bk; c 35 20 1.4 bk; p cr M18 16 l4 -6 l4 4 l4 -4 l2 6 c-4 -2 -10 -2 -14 0z; p cr M14 34 l6 4 l6 -6 l6 6 l6 -6 l6 6 l6 -4 v10 c0 8 -8 14 -18 14 c-10 0 -18 -6 -18 -14z; p sn M40 48 c6 -3 10 -8 10 -14 v-6 l-4 4 v4 c0 5 -2 9 -6 12z
+sammakko|e 32 42 20 12 gn; c 22 26 7 gn; c 42 26 7 gn; c 22 25 4 wh; c 42 25 4 wh; c 22 25 2 bk; c 42 25 2 bk; e 32 36 16 8 gn; s dg 1.6 M24 40 c4 4 12 4 16 0; e 32 48 10 5 lg; p gn M10 50 c-4 4 0 8 6 4z; p gn M54 50 c4 4 0 8 -6 4z; c 27 35 0.8 dg; c 37 35 0.8 dg
+katkarapu|s or 1 M16 20 c-6 -4 -10 -10 -10 -14 M16 22 c-6 0 -10 -4 -12 -8; p or M16 20 c10 -6 26 -4 34 6 c6 8 4 20 -4 24 c-4 2 -8 0 -8 -4 c6 -2 8 -8 4 -14 c-4 -6 -14 -8 -22 -4z; s ok 1.5 M30 16 c-2 4 -2 6 0 8 M38 18 c-2 4 -2 6 0 8 M45 24 c-3 2 -4 4 -3 7; p or M34 44 l-6 8 l8 -2 l2 6 l4 -10z; c 20 20 1.5 bk
+osteri|p gy M8 36 c0 -10 10 -16 24 -16 c14 0 24 6 24 16z; p #c9c2cf M8 38 c0 10 10 16 24 16 c14 0 24 -6 24 -16z; p #efe9f2 M12 38 c2 6 10 12 20 12 c10 0 18 -6 20 -12z; c 32 42 4 wh; o 32 42 4 lt 1; s dk/40 1.2 M14 30 c6 -4 30 -4 36 0
+kovakuoriainen|@bug(#2f7a5a,#1f5a42)
+frisbee|e 32 38 24 10 or; e 32 35 24 9 yl; e 32 35 16 5 or/50; e 22 31 5 2 wh/50
+pesapallo|@orb(wh,lt,18,32,36); s rd 1.6 M18 24 c6 4 8 14 2 24 M46 24 c-6 4 -8 14 -2 24; s rd 1 M20 26 l3 -2 M22 30 l3 -1 M23 34 l3 0 M23 38 l3 1 M22 42 l3 2 M44 26 l-3 -2 M42 30 l-3 -1 M41 34 l-3 0 M41 38 l-3 1 M42 42 l-3 2
+softballpallo|@orb(yl,gd,18,32,36); s rd 1.6 M18 24 c6 4 8 14 2 24 M46 24 c-6 4 -8 14 -2 24; s rd 1 M20 26 l3 -2 M22 30 l3 -1 M23 34 l3 0 M23 38 l3 1 M22 42 l3 2 M44 26 l-3 -2 M42 30 l-3 -1 M41 34 l-3 0 M41 38 l-3 1 M42 42 l-3 2
+pingismaila|g 30 32 32; r 29 36 6 20 br 3; c 32 24 15 rd; p dr/40 M44 32 c-4 6 -12 8 -20 4 c8 0 14 -4 18 -10z; /g; @orb(wh,lt,5,50,46)
+hunajapurkki|r 16 22 32 32 gd 8; r 16 22 32 32 or/20 8; r 20 14 24 9 br 3; s br 1 M20 18 h24; p yl M16 30 c4 4 8 -2 12 2 c4 4 8 -2 12 2 c4 4 6 -2 8 0 v-8 h-32z; r 22 34 20 12 cr 2; s ok 1.5 M26 40 h12; e 22 36 2 8 wh/30
+sateenvarjo|s dk 2 M32 6 V2; s dk 2.5 M32 30 V50 c0 6 -8 6 -8 0; p rd M6 30 c0 -14 12 -24 26 -24 c14 0 26 10 26 24 c-3 -3 -7 -3 -9 0 c-3 -3 -7 -3 -9 0 c-3 -3 -5 -3 -8 0 c-3 -3 -5 -3 -8 0 c-2 -3 -6 -3 -9 0 c-2 -3 -6 -3 -9 0z; p dr/40 M32 6 c8 6 10 16 9 24 c-3 -3 -6 -3 -9 0z
+palapeli|p bl M14 18 h12 c0 -4 2 -8 6 -8 c4 0 6 4 6 8 h12 v12 c4 0 8 2 8 6 c0 4 -4 6 -8 6 v12 h-12 c0 4 -2 8 -6 8 c-4 0 -6 -4 -6 -8 h-12z; p nv/30 M38 54 h12 v-12 c4 0 8 -2 8 -6 c0 4 -4 6 -8 6 v12 h-12z; e 22 24 3 2 wh/40
+kultakala|@fish(or,ok,yl/60)
+nalle|e 32 46 14 12 br; e 32 47 8 7 lb; e 18 42 4.5 7 db; e 46 42 4.5 7 db; e 23 56 6 3.5 db; e 41 56 6 3.5 db; c 20 13 6 br; c 44 13 6 br; c 20 13 3 lb; c 44 13 3 lb; c 32 24 13 br; e 32 29 6 5 lb; e 32 27 2.5 2 bk; c 27 21 1.8 bk; c 37 21 1.8 bk
+vasara|g 35 32 32; r 29 18 6 40 lb 3; r 29 18 3 40 br 2; r 20 8 26 12 dk 2; r 20 8 26 4 gy 2; /g
+jalkapallo|c 32 34 20 wh; o 32 34 20 lt 1.2; p bk M32 27 l7 5 l-3 8 h-8 l-3 -8z; p bk M32 14.5 c3 0 7 1 9 2 l-2 5 l-7 -4 l-7 4 l-2 -5 c2 -1 6 -2 9 -2z; p bk M13 30 l5 -3 l3 6 l-3 7 l-4 -1 c-1 -3 -1 -6 -1 -9z; p bk M51 30 l-5 -3 l-3 6 l3 7 l4 -1 c1 -3 1 -6 1 -9z; p bk M24 51 l3 -6 h10 l3 6 c-5 3 -11 3 -16 0z
+taikasauva|g 40 32 32; r 30 18 4 38 bk 2; r 30 18 4 6 wh 1; /g; @star(yl,10,44,16); @spark(yl,20,14,3); @spark(sk,52,32,3); @spark(pk,30,6,2.5)
+kala|@fish(bl,nv,sk)
+heratyskello|s dk 3 M18 52 l-4 4 M46 52 l4 4; c 20 14 6 rd; c 44 14 6 rd; c 32 34 20 rd; c 32 34 16 wh; s dk 2.5 M32 34 V22 M32 34 l8 4; c 32 34 2 dk; s lt 1.5 M32 20 v2 M46 34 h-2 M32 48 v-2 M18 34 h2
+onkivapa|s br 3 M10 54 L50 8; s gy 1 M50 8 C54 20 54 30 52 42; s dk 2 M52 42 c0 4 4 4 4 0; o 18 46 5 dk 2.5; c 18 46 2 gy; p rd M50 36 a3 3 0 1 1 4 0z; p wh M50 36 a3 3 0 0 0 4 0z
+kakku|r 22 20 3 12 sk 1; r 30.5 18 3 14 yl 1; r 39 20 3 12 lg 1; p or M23.5 15 c2 2 2 4 0 5 c-2 -1 -2 -3 0 -5z; p or M32 13 c2 2 2 4 0 5 c-2 -1 -2 -3 0 -5z; p or M40.5 15 c2 2 2 4 0 5 c-2 -1 -2 -3 0 -5z; r 10 32 44 22 pk 4; r 10 44 44 3 mg/40; p wh M10 32 h44 v4 c-3 4 -5 4 -6 0 c-3 4 -5 4 -6 0 c-3 4 -5 4 -6 0 c-3 4 -5 4 -6 0 c-3 4 -5 4 -6 0 c-3 4 -5 4 -6 0 c-3 4 -5 4 -8 0z
+kompassi|r 29 11 6 5 gd 2; c 32 34 20 gd; c 32 34 16 wh; p rd M32 20 l4 14 h-8z; p dk M32 48 l4 -14 h-8z; c 32 34 2 gd
+vaelluskengat|@shoe(br,db,dk); c 24 26 1.2 gd; c 23 30 1.2 gd; c 22 34 1.2 gd
+rumpu|s lb 2 M14 12 L28 26 M50 12 L36 26; c 14 12 2.5 lb; c 50 12 2.5 lb; p rd M10 30 h44 v18 c0 4 -10 8 -22 8 c-12 0 -22 -4 -22 -8z; s wh 2 M10 32 l11 22 l11 -22 l11 22 l11 -22; e 32 30 22 6 wh; o 32 30 22 lt 1.2
+kirjapino|r 10 44 44 10 bl 2; r 12 46 40 6 cr/60 1; r 14 34 38 10 rd 2; r 16 36 34 6 cr/60 1; r 12 24 36 10 gn 2; r 14 26 32 6 cr/60 1; r 18 14 32 10 yl 2; r 20 16 28 6 cr/60 1
+taytekyna|g 40 32 32; r 28 22 8 34 bk 4; r 28 22 8 4 gd 1; r 28 48 8 3 gd 1; p gd M28 22 l4 -16 l4 16z; s bk 1 M32 10 v10; /g
+aarrekartta|p #e9cf94 M8 14 l14 4 l14 -4 l14 4 l6 -2 v38 l-6 2 l-14 -4 l-14 4 l-14 -4z; p #d6b56f M22 18 l14 -4 v38 l-14 4z; s br 1.5 M14 44 c6 -4 10 -12 18 -10 c6 2 8 -6 12 -10; s rd 2 M43 17 l6 6 M49 17 l-6 6; c 14 44 2 br
+kirjakaaro|r 14 14 36 36 #ecd9a8; s ok/50 1.2 M20 24 h24 M20 30 h24 M20 36 h18; r 10 10 44 7 #d9bf86 3; r 10 47 44 7 #d9bf86 3; c 10 13.5 3.5 br; c 54 13.5 3.5 br; c 10 50.5 3.5 br; c 54 50.5 3.5 br; c 32 44 4 rd
+silmalasit|c 20 34 7 sk/40; c 44 34 7 sk/40; o 20 34 9 dk 3; o 44 34 9 dk 3; s dk 3 M29 32 c2 -2 4 -2 6 0 M11 32 L6 26 M53 32 L58 26; s wh/70 1.5 M15 31 l4 -3 M39 31 l4 -3
+aurinkolasit|s bk 3 M10 28 h44 M10 28 L4 22 M54 28 L60 22; p bk M10 28 h20 v6 c0 6 -4 10 -10 10 c-6 0 -10 -4 -10 -10z; p bk M34 28 h20 v6 c0 6 -4 10 -10 10 c-6 0 -10 -4 -10 -10z; s dk 1.5 M14 32 l6 -2 M38 32 l6 -2
+suojalasit|s bl 4 M6 32 h52; r 12 22 40 20 nv 10; c 22 32 7 sk; c 42 32 7 sk; r 29 30 6 4 nv 1; s wh/70 1.5 M18 29 l4 -3 M38 29 l4 -3
+solmio|p bl M26 10 h12 l-2 8 h-8z; p bl M28 18 h8 l6 28 l-10 10 l-10 -10z; s nv/50 3 M30 24 l8 5 M28 34 l12 7 M27 44 l8 5
+farkut|p bl M16 10 h32 l4 46 h-14 l-6 -32 l-6 32 h-14z; r 16 10 32 6 nv 1; s sk 1 M32 16 v10 M18 16 l2 38 M46 16 l-2 38; r 34 12 2 4 gd
+mekko|p pk M24 10 h16 l-2 10 l4 4 l12 30 h-44 l12 -30 l4 -4z; p mg/40 M42 24 l12 30 h-14z; r 22 22 20 4 mg 1; s wh/60 2 M14 48 h36
+bikinit|s rd 1.5 M14 12 L22 22 M50 12 L42 22 M22 22 h20; p rd M14 26 c2 -6 6 -8 10 -6 l6 4 c-4 4 -12 6 -16 2z; p rd M50 26 c-2 -6 -6 -8 -10 -6 l-6 4 c4 4 12 6 16 2z; p rd M14 40 h36 c-2 8 -10 14 -18 14 c-8 0 -16 -6 -18 -14z; c 22 44 1.5 wh; c 34 48 1.5 wh; c 42 43 1.5 wh
+uimapuku|p tl M22 8 l4 10 c2 4 10 4 12 0 l4 -10 h2 l2 16 c0 8 -4 12 -4 16 c0 6 4 10 4 14 l-10 2 c-2 -6 -10 -6 -12 0 l-10 -2 c0 -4 4 -8 4 -14 c0 -4 -4 -8 -4 -16 l2 -16z; s wh/60 2 M19 36 c8 4 18 4 26 0
+shortsit|p tl M14 14 h36 l4 28 h-18 l-4 -14 l-4 14 h-18z; r 14 14 36 5 #2a8a7e 1; s wh/60 1.5 M32 19 v8
+takki|p ol M18 10 h28 l10 10 v34 h-10 v-26 l-2 26 h-24 l-2 -26 v26 h-10 v-34z; p #6e7c2e M32 10 l-6 6 l6 26 l6 -26z; s #6e7c2e 2 M32 18 V54; c 35 30 1.3 dk; c 35 38 1.3 dk; c 35 46 1.3 dk
+silinteri|e 32 50 26 6 bk; r 16 14 32 36 bk 3; p dk/60 M38 14 h10 v36 h-10z; r 16 38 32 6 rd; e 32 14 16 3 dk
+olkihattu|e 32 42 28 9 #e7c97a; p #e7c97a M18 40 c0 -14 6 -22 14 -22 c8 0 14 8 14 22z; r 18 34 28 6 rd 2; s #c9a85a 1 M8 42 c8 4 40 4 48 0
+pelastuskypara|r 6 38 52 6 dr 3; p rd M10 40 c0 -14 10 -24 22 -24 c12 0 22 10 22 24z; p wh M29 22 h6 v5 h5 v6 h-5 v5 h-6 v-5 h-5 v-6 h5z; e 22 26 3 5 wh/40
+kukkaro|s gd 3 M14 24 c0 -6 4 -8 8 -6 M50 24 c0 -6 -4 -8 -8 -6; c 22 18 3 gd; c 42 18 3 gd; p pk M10 34 c0 -8 6 -12 22 -12 c16 0 22 4 22 12 v10 c0 8 -6 10 -22 10 c-16 0 -22 -2 -22 -10z; p mg/30 M10 40 c0 8 6 10 22 10 c16 0 22 -2 22 -10 v4 c0 8 -6 10 -22 10 c-16 0 -22 -2 -22 -10z
+pikkulaukku|r 8 22 48 26 pu 4; p #6a4fa8 M8 26 c0 -2 2 -4 4 -4 h40 c2 0 4 2 4 4 l-24 14z; c 32 38 3 gd
+reppu|o 32 14 6 dk 3; r 14 14 36 42 rd 8; r 18 34 28 16 dr 4; s dk 2 M18 38 h28; r 22 20 20 8 dr/50 3
+korkokengat|p rd M6 48 c0 -6 4 -10 10 -10 c8 0 14 4 20 4 c6 0 10 -10 14 -20 h6 v8 l-2 2 v22 h-4 v-14 c-6 4 -10 10 -14 10 h-28 c-1 0 -2 -1 -2 -2z; p dr/40 M40 22 h6 v8 l-2 2 v22 h-4 v-14z
+sandaalit|p sn M10 48 c0 -10 6 -20 16 -20 h10 c10 0 18 8 18 20 v2 h-44z; s br 3 M18 34 l20 8 M36 30 l-10 12; r 10 48 44 4 br 2
+saappaat|p rd M20 8 h16 v32 l14 6 c4 2 6 6 6 10 h-36z; p dr/40 M30 8 h6 v32 l14 6 c4 2 6 6 6 10 h-8 c0 -6 -4 -10 -10 -12 l-8 -4z; r 20 52 36 4 dk 1; r 20 8 16 5 dr 1
+balettitossut|s pk 1.5 M22 32 c-4 -10 0 -18 8 -24 M40 26 c-2 -8 2 -14 8 -18; p pk M28 38 c0 -8 6 -12 12 -12 h8 c6 0 8 6 8 12 c0 6 -4 8 -14 8 c-10 0 -14 -2 -14 -8z; e 38 32 8 3 #e47d9a; p pk M10 44 c0 -8 6 -12 12 -12 h8 c6 0 8 6 8 12 c0 6 -4 8 -14 8 c-10 0 -14 -2 -14 -8z; e 20 38 8 3 #e47d9a

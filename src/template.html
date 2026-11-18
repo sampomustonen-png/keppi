@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="theme-color" content="#ece5d6">
+<meta name="description" content="Vaihda keppi vähän parempaan, ja sitten taas. Ehditkö omistaa kaiken vuodessa?">
+<title>Kepistä kaikkeen</title>
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<style>
+/*CSS*/
+</style>
+</head>
+<body>
+<div id="app">
+  <header>
+    <div class="head">
+      <div class="day" id="day">Päivä <b>1</b> / 365</div>
+      <div class="head-r">
+        <button class="txtbtn" id="btnBook">Löydöt <b id="bookN">1</b></button>
+        <button class="menu-ic" id="btnMenu" aria-label="Valikko">☰</button>
+      </div>
+    </div>
+    <div class="ladder" id="ladder" aria-hidden="true"></div>
+    <div class="ladder-cap"><span id="tierName">Maasta löydetyt</span><span id="tierNum">1 / 19</span></div>
+  </header>
+  <div class="trail" id="trail" aria-label="Vaihtoketju"></div>
+  <div class="notes" id="notes" aria-live="polite"></div>
+  <main class="stage">
+    <div class="center" id="center"></div>
+    <div class="alts" id="alts"></div>
+  </main>
+  <div class="demand" id="demand"></div>
+  <div class="foot">
+    <div class="pack" id="pack" aria-label="Reppu"></div>
+    <button class="skip" id="btnSkip">Ohita päivä</button>
+  </div>
+</div>
+
+<div class="sheet start" id="startSheet">
+  <div class="sheet-in">
+    <div class="logo"><!--LOGO--></div>
+    <h1>Kepistä kaikkeen</h1>
+    <p class="sub">Vaihda aina vähän parempaan.</p>
+    <div class="seg modes" id="modeSeg" role="group" aria-label="Pelimuoto"></div>
+    <div id="levelBox"></div>
+    <div class="btns" id="startBtns"></div>
+    <details class="rules" id="rulesBox">
+      <summary>Näin pelaat</summary>
+      <p>Sinulla on keppi ja vuosi aikaa. Joka päivä saat kolme vaihtoehtoa. <b>Napauta</b> sitä, jonka haluat, tai ohita päivä.</p>
+      <p>Tavaran arvon näet, kun olet joskus omistanut sen. Uudesta tavarasta lukee <b>arvo ?</b>. Joskus tutunkin tavaran arvo on piilossa: se selviää vasta vaihdossa.</p>
+      <p><b>Kysyntä</b> nostaa tiettyjen tavaroiden arvoa muutaman päivän. Nyt kysytyt on merkitty oranssilla renkaalla, seuraavaksi kysytyt katkoviivalla.</p>
+      <p><b>Reppuun</b> mahtuu kaksi tavaraa. Napauta repun tavaraa, niin näet mitä siitä tarjotaan. Joskus voit vaihtaa kädessä olevan ja repun tavaran yhdessä yhteen isompaan.</p>
+      <p><b>Paketin</b> sisältö selviää vasta vaihdossa. Se voi tuplata arvon tai puolittaa sen.</p>
+      <p><b>Kokoelmat</b>: kun löydät esimerkiksi kaikki kamerat, niistä saa jatkossa paremmat tarjoukset. Löydöt ja kokoelmat säilyvät pelistä toiseen.</p>
+    </details>
+    <p class="fine" id="startFine"></p>
+  </div>
+</div>
+
+<div class="sheet" id="bookSheet">
+  <div class="book-top">
+    <div class="book-row"><h2>Löydöt</h2><button class="close" id="btnBookClose" aria-label="Sulje">✕</button></div>
+    <div class="cnt" id="bookCnt"></div>
+    <div class="seg" role="tablist"><button id="sort-abc" class="on">Aakkoset</button><button id="sort-val">Arvo</button><button id="sort-fam">Kokoelmat</button></div>
+  </div>
+  <div class="book" id="bookBody"></div>
+</div>
+
+<div class="sheet" id="challengeSheet">
+  <div class="book-top">
+    <div class="book-row"><h2>Haasteet</h2><button class="close" id="btnChClose" aria-label="Sulje">✕</button></div>
+  </div>
+  <div class="book" id="challengeBody"></div>
+</div>
+
+<div class="sheet" id="transferSheet">
+  <div class="book-top">
+    <div class="book-row"><h2>Siirrä peli</h2><button class="close" id="btnTrClose" aria-label="Sulje">✕</button></div>
+  </div>
+  <div class="book transfer">
+    <p>Peli tallentuu tähän selaimeen. Siirtokoodilla saat löydöt, kokoelmat, haasteet ja keskeneräiset vuodet toiseen laitteeseen tai selaimeen.</p>
+    <button class="pill main" id="btnExport">Kopioi siirtokoodi</button>
+    <label class="tr-lbl" for="transferIn">Toisesta laitteesta kopioitu koodi</label>
+    <textarea id="transferIn" rows="4" spellcheck="false" autocomplete="off" placeholder="KK1…"></textarea>
+    <button class="pill" id="btnImport">Lataa koodi</button>
+    <p class="tr-msg" id="transferMsg" aria-live="polite"></p>
+  </div>
+</div>
+
+<div class="sheet" id="menuSheet">
+  <button class="close" id="btnMenuClose" aria-label="Sulje">✕</button>
+  <div class="menu">
+    <button class="pill" id="btnSound">Äänet: päällä</button>
+    <button class="pill" id="btnRules">Pelimuodot ja ohjeet</button>
+    <button class="pill" id="btnCh">Haasteet</button>
+    <button class="pill" id="btnTransfer">Siirrä peli toiseen laitteeseen</button>
+    <button class="pill" id="btnRestart">Aloita alusta</button>
+    <div class="confirm" id="confirm">
+      <span>Nykyinen peli häviää. Löydöt säilyvät.</span>
+      <button class="pill main" id="btnConfirm">Aloita alusta</button>
+      <button class="pill" id="btnCancel">Peruuta</button>
+    </div>
+    <p class="sync">Kaikki kuvat on piirretty tätä peliä varten.</p>
+  </div>
+</div>
+
+<div class="sheet end" id="endSheet"><div class="sheet-in" id="endBody"></div></div>
+<div class="sheet end season-sheet" id="seasonSheet"><div class="sheet-in" id="seasonBody"></div></div>
+<div class="moment" id="moment" role="dialog" aria-live="assertive"></div>
+<canvas id="burst" aria-hidden="true"></canvas>
+
+<script>
+/*ITEMS*/
+</script>
+<script>
+/*DATA*/
+</script>
+<script>
+/*ENGINE*/
+</script>
+<script>
+/*UI*/
+</script>
+</body>
+</html>
