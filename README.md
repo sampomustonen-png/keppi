@@ -2,7 +2,7 @@
 
 Selaimessa pelattava vaihtopeli. Aloitat kepillä, vaihdat joka päivä vähän parempaan ja yrität omistaa *kaiken* ennen kuin vuosi loppuu.
 
-**[Pelaa selaimessa →](https://<käyttäjä>.github.io/<repo>/)**
+**[Pelaa selaimessa →](https://sampomustonen-png.github.io/keppi/)**
 
 ![Aloitusnäkymä, pelinäkymä ja löydöt](docs/screenshot.png)
 
