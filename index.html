@@ -1271,7 +1271,14 @@ function seasonMoment(rec) {
   });
 }
 function sheet(id, on) {
-  $(id).classList.toggle("show", on);
+  var el = $(id);
+  // juuri avattu paneeli aina päällimmäiseksi (muuten esim. Löydöt aukeaa loppunäkymän alle, koska se on sivulla aiemmin)
+  if (on && !el.classList.contains("show")) {
+    var top = 20;
+    document.querySelectorAll(".sheet.show").forEach(function (o) { top = Math.max(top, +o.style.zIndex || 20); });
+    el.style.zIndex = Math.min(top + 1, 29);
+  } else if (!on) el.style.zIndex = "";
+  el.classList.toggle("show", on);
   document.body.classList.toggle("locked", !!document.querySelector(".sheet.show"));
 }
 
@@ -1696,7 +1703,9 @@ function showEnd() {
   $("btnBook3").onclick = showBook;
   $("btnHome").onclick = function () { sheet("endSheet", false); s = null; showStart(); };
   $("btnCopy").onclick = function () { copyText(this, shareText(ended)); };
-  $("btnShare").onclick = function () { shareImage(this, ended); };
+  var shot = { blob: null };
+  shot.p = shareBlob(ended).then(function (b) { shot.blob = b; return b; }, function () { return null; });
+  $("btnShare").onclick = function () { shareImage(this, ended, shot); };
   persist();
   store.saves[ended.mode] = null;
   persist();
@@ -1736,14 +1745,13 @@ function milestones(chain, n) {
   for (var i = 0; i < n; i++) out.push(chain[Math.round(i * (chain.length - 1) / (n - 1))][0]);
   return out;
 }
-function shareImage(btn, sv) {
+function shareBlob(sv) {
   var sm = E.summary(sv), own = sm.own, T = D.TIERS[sv.won ? 18 : sm.tier], dark = !!T.dark;
   var ink = dark ? "#f3efe6" : "#27241f", mute = hex(mix(rgb(T.bg), rgb(ink), 0.55)), plate = dark ? "rgba(255,255,255,.1)" : "rgba(255,255,255,.6)";
   var steps = milestones(sv.chain, 10), L = E.look(own);
   var keys = [own.id].concat(steps);
   L.k.forEach(function (k) { keys.push("~" + k + "<", "~" + k + ">"); });
-  btn.textContent = "Tehdään kuvaa…";
-  Promise.all(keys.map(loadImg)).then(function (imgs) {
+  return Promise.all(keys.map(loadImg)).then(function (imgs) {
     var img = {}; keys.forEach(function (k, i) { img[k] = imgs[i]; });
     var W = 1080, H = 1350, cv = document.createElement("canvas"), c = cv.getContext("2d");
     cv.width = W; cv.height = H;
@@ -1770,7 +1778,13 @@ function shareImage(btn, sv) {
     });
     c.fillStyle = mute; c.font = "32px " + F;
     c.fillText("Vaihtoja " + sv.trades + " · uusia löytöjä " + ((sv.ui && sv.ui.newIds.length) || 0), W / 2, 1275);
-    cv.toBlob(function (blob) {
+    return new Promise(function (res) { cv.toBlob(function (b) { res(b); }, "image/png"); });
+  });
+}
+// Jakaminen pitää käynnistää heti napin painalluksesta (esim. iPhone ei salli sitä odotuksen jälkeen),
+// joten kuva tehdään valmiiksi jo loppunäkymää avattaessa (pre.blob).
+function shareImage(btn, sv, pre) {
+  var fin = function (blob) {
       if (!blob) { btn.textContent = "Kuvan teko ei onnistunut"; return; }
       var file = null;
       try { file = new File([blob], "kepista-kaikkeen.png", { type: "image/png" }); } catch (e) {}
@@ -1782,8 +1796,10 @@ function shareImage(btn, sv) {
         return;
       }
       save();
-    }, "image/png");
-  });
+  };
+  if (pre && pre.blob) { fin(pre.blob); return; }
+  btn.textContent = "Tehdään kuvaa…";
+  (pre && pre.p ? pre.p : shareBlob(sv)).then(fin, function () { fin(null); });
 }
 // Tallentaa tiedoston: Clauden artefaktinäkymässä sen oman tallennuksen kautta, muualla tavallisena latauksena.
 // Palauttaa lupauksen, joka ratkeaa arvoon true, jos tiedosto annettiin tallennettavaksi.
